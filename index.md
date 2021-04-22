@@ -40,7 +40,7 @@
 - [editor.md](https://pandao.github.io/editor.md/en.html){:target="_blank"}
 - [jsfiddle](https://jsfiddle.net/){:target="_blank"}
 - [dirty markup](https://www.10bestdesign.com/dirtymarkup/){:target="_blank"}
-- [base64](https://www.textencode.com/encoder/generateBase64){:targe"_blank"}
+- [base64](https://www.textencode.com/encoder/generateBase64){:target="_blank"}
 - [youtube studio](https://studio.youtube.com/){:target="_blank"} 
 
 ### spring 2021
