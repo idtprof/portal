@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 <h2>
 
 <a href="https://mail.google.com/mail/u/0/#all" rel="noopener noreferrer" target="_blank">
@@ -11,7 +11,7 @@
   <a href="https://voice.google.com/" rel="noopener noreferrer" target="_blank"><img alt="Google VOice" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_googlevoice.png?raw=true" width="30"></a>&nbsp;
 
 </h2>
-  
+
 </div>
 
 [office](https://www.office.com/?auth=2){:target="_blank"} • [calendar](https://www.google.com/calendar/render?tab=mc){:target="_blank"} • [reddit](https://www.reddit.com/r/WebdevTutorials/){:target="_blank"} • [github](https://github.com/pacodotorg?tab=repositories){:target="_blank"} • [sticky notes](https://www.onenote.com/stickynotes){:target="_blank"} • [slack](https://idtprof.slack.com/){:target="_blank"} • [drive](https://drive.google.com/drive/folders/10vNVHvWsBjqardrxym2iR8cGIy6QYTqs){:target="_blank"} • [diigo](https://www.diigo.com/user/eccidtprof){:target="_blank"}\
@@ -41,7 +41,11 @@
 - [jsfiddle](https://jsfiddle.net/){:target="_blank"}
 - [dirty markup](https://www.10bestdesign.com/dirtymarkup/){:target="_blank"}
 - [base64](https://www.textencode.com/encoder/generateBase64){:target="_blank"}
-- [youtube studio](https://studio.youtube.com/){:target="_blank"} 
+- [youtube studio](https://studio.youtube.com/){:target="_blank"}
+
+### summer 2021
+
+- [artv-2470-52400](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_576724_1&url=){:target="_blank"} [ handheld device web app dev ]
 
 ### spring 2021
 
