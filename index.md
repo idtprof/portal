@@ -45,7 +45,8 @@
 
 ### summer 2021
 
-- [itse-1405-53840](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_629357_1&url=){:target="_blank"} [ handheld device web app dev ]
+- [itse-1405-53840](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_629357_1&url=){:target="_blank"} [ intro to pc operating systems ]
+- [itse-1425-53841](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_629361_1&url=){:target="_blank"} [ personal computer hardware ]
 
 ### spring 2021
 
