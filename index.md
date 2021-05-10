@@ -45,7 +45,7 @@
 
 ### summer 2021
 
-- [artv-2470-52400](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_576724_1&url=){:target="_blank"} [ handheld device web app dev ]
+- [itse-1405-53840](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_629357_1&url=){:target="_blank"} [ handheld device web app dev ]
 
 ### spring 2021
 
