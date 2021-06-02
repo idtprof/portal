@@ -49,6 +49,7 @@
 - [itse-1405-53840](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_629357_1&url=){:target="_blank"} [ intro to pc operating systems ]
 - [itse-1425-53841](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_629361_1&url=){:target="_blank"} [ personal computer hardware ]
 - [itse-1429-53853](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_629363_1&url=){:target="_blank"} [ programming logic and design ]
+- [itse-2402-53G01](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_641515_1&url=){:target="_blank"} [ intermediate web programming ]
 
 ### spring 2021
 
