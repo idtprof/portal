@@ -4,11 +4,18 @@
 
 <a href="https://mail.google.com/mail/u/0/#all" rel="noopener noreferrer" target="_blank">
     <img alt="gMail" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_gmail.png?raw=true" width="30"></a>&nbsp;
-	<a href="https://www.facebook.com/?sk=h_chr" rel="noopener noreferrer" target="_blank"><img alt="Facebook" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_facebook.png?raw=true" width="30"></a>&nbsp;
-	<a href="https://en.wikipedia.org/wiki/Portal:Technology" rel="noopener noreferrer" target="_blank"><img alt="Wikipedia" class="alignnone" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_wikipedia.png?raw=true" width="30"></a>&nbsp;
-	<a href="https://www.reddit.com/r/all" rel="noopener noreferrer" target="_blank"><img alt="Reddit" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_reddit.png?raw=true" width="30"></a>&nbsp;
-	<a href="https://twitter.com/i/lists/1010" rel="noopener noreferrer" target="_blank"><img alt="Twitter" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_twitter.png?raw=true" width="30"></a>&nbsp;
-  <a href="https://voice.google.com/" rel="noopener noreferrer" target="_blank"><img alt="Google VOice" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_googlevoice.png?raw=true" width="30"></a>&nbsp;
+<a href="https://www.facebook.com/?sk=h_chr" rel="noopener noreferrer" target="_blank">
+    <img alt="Facebook" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_facebook.png?raw=true" width="30"></a>&nbsp;
+<a href="https://discord.com/login" rel="noopener noreferrer" target="_blank">
+    <img alt="Discord" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_discord.png?raw=true" width="30"></a>&nbsp;
+<a href="https://en.wikipedia.org/wiki/Portal:Technology" rel="noopener noreferrer" target="_blank">
+    <img alt="Wikipedia" class="alignnone" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_wikipedia.png?raw=true" width="30"></a>&nbsp;
+<a href="https://www.reddit.com/r/all" rel="noopener noreferrer" target="_blank">
+    <img alt="Reddit" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_reddit.png?raw=true" width="30"></a>&nbsp;
+<a href="https://twitter.com/i/lists/1010" rel="noopener noreferrer" target="_blank">
+    <img alt="Twitter" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_twitter.png?raw=true" width="30"></a>&nbsp;
+<a href="https://voice.google.com/" rel="noopener noreferrer" target="_blank">
+    <img alt="Google VOice" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_googlevoice.png?raw=true" width="30"></a>&nbsp;
 
 </h2>
 
@@ -46,8 +53,8 @@
 
 ### summer 2021
 
-- [itsc-1405-53840](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_629357_1&url=){:target="_blank"} [ intro to pc operating systems ]
-- [itsc-1425-53841](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_629361_1&url=){:target="_blank"} [ personal computer hardware ]
+- [itszz-1405-53840](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_629357_1&url=){:target="_blank"} [ intro to pc operating systems ]
+- [itse-1425-53841](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_629361_1&url=){:target="_blank"} [ personal computer hardware ]
 - [itse-1429-53853](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_629363_1&url=){:target="_blank"} [ programming logic and design ]
 - [itse-2402-53G01](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_641515_1&url=){:target="_blank"} [ intermediate web programming ]
 
