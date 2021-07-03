@@ -2,7 +2,7 @@
 
 <h2>
 
-<a href="https://mail.google.com/mail/u/0/#all" rel="noopener noreferrer" target="_blank">
+<a href="https://mail.google.com/mail/u/0/#search/is%3Aunread+in%3Ainbox" rel="noopener noreferrer" target="_blank">
     <img alt="gMail" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_gmail.png?raw=true" width="30"></a>&nbsp;
 <a href="https://www.facebook.com/?sk=h_chr" rel="noopener noreferrer" target="_blank">
     <img alt="Facebook" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_facebook.png?raw=true" width="30"></a>&nbsp;
