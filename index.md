@@ -30,7 +30,7 @@
 
 [morioh](https://morioh.com/){:target="_blank"} • [code project](https://www.codeproject.com/){:target="_blank"} • [hacker news](https://news.ycombinator.com/){:target="_blank"} • [news360](https://news360.com/home){:target="_blank"} • [breaking](https://twitter.com/i/lists/1010){:target="_blank"}\
 [zeitgeist](https://www.reddit.com/r/thedailyzeitgeist/){:target="_blank"} • [packt](https://www.packtpub.com/free-learning){:target="_blank"} • [tiktok](https://www.tiktok.com/){:target="_blank"} • [effhomepage](https://fuckinghomepage.com/){:target="_blank"} • [phoenix](https://www.mipcm.com/){:target="_blank"}\
-[prime video](https://www.amazon.com/Amazon-Video/b/?node=2858778011){:target="_blank"} • [plex](https://app.plex.tv/desktop/#!/){:target="_blank"} • [youtube TV](https://tv.youtube.com/welcome/?utm_servlet=prod){:target="_blank"}
+📺 [prime video](https://www.amazon.com/Amazon-Video/b/?node=2858778011){:target="_blank"} • [plex](https://app.plex.tv/desktop/#!/){:target="_blank"} • [youtube TV](https://tv.youtube.com/welcome/?utm_servlet=prod){:target="_blank"}
 
 ### ecc
 
