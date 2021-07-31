@@ -24,17 +24,11 @@
 ### start.paco.org
 
 📧 [office](https://www.office.com/?auth=2){:target="_blank"} • [calendar](https://www.google.com/calendar/render?tab=mc){:target="_blank"} • [reddit](https://www.reddit.com/r/WebdevTutorials/){:target="_blank"} • [github](https://github.com/pacodotorg?tab=repositories){:target="_blank"} • [sticky notes](https://www.onenote.com/stickynotes){:target="_blank"} • [slack](https://idtprof.slack.com/){:target="_blank"} • [drive](https://drive.google.com/drive/folders/10vNVHvWsBjqardrxym2iR8cGIy6QYTqs){:target="_blank"} • [diigo](https://www.diigo.com/user/eccidtprof){:target="_blank"}
-
 📑 [photopea](https://www.photopea.com/){:target="_blank"} • [editpad](https://www.editpad.org/){:target="_blank"}
-
 📚 [houston](http://houstonlibrary.org/){:target="_blank"} • [el centro](https://libguides.elcentrocollege.edu/researchguides){:target="_blank"} • [shapiro](https://libguides.snhu.edu/home){:target="_blank"}
-
 🎓 [mySNHU](https://my.snhu.edu/students/Pages/default.aspx){:target="_blank"} • [mail](https://sso-mail.snhu.edu/owa){:target="_blank"} • [520](https://learn.snhu.edu/d2l/home/757356){:target="_blank"}
-
 💻 [morioh](https://morioh.com/){:target="_blank"} • [code project](https://www.codeproject.com/){:target="_blank"} • [hacker news](https://news.ycombinator.com/){:target="_blank"} • [news360](https://news360.com/home){:target="_blank"} • [breaking](https://twitter.com/i/lists/1010){:target="_blank"}\
-
 👀 [zeitgeist](https://www.reddit.com/r/thedailyzeitgeist/){:target="_blank"} • [packt](https://www.packtpub.com/free-learning){:target="_blank"} • [tiktok](https://www.tiktok.com/){:target="_blank"} • [effhomepage](https://fuckinghomepage.com/){:target="_blank"} • [phoenix](https://www.mipcm.com/){:target="_blank"}\
-
 📺 [prime video](https://www.amazon.com/Amazon-Video/b/?node=2858778011){:target="_blank"} • [plex](https://app.plex.tv/desktop/#!/){:target="_blank"} • [youtube TV](https://tv.youtube.com/welcome/?utm_servlet=prod){:target="_blank"}
 
 ### ecc
