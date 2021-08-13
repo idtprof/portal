@@ -56,7 +56,10 @@
 ### 📅 fall 2021
 
 - [artc-1305-51700](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_633629_1&url=){:target="_blank"} [ basic graphic design ]
-- [itse-1411-51900](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_646059_1&url=){:target="_blank"} [ basic graphic design ]
+- [itse-1411-51900](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_646059_1&url=){:target="_blank"} [ beginning web programming ]
+- [itsy-1400-51G04](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_646076_1&url=){:target="_blank"} [ fundamentals of information security ]
+- [itse-1429-51G04](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_646060_1&url=){:target="_blank"} [ programming logic and design ]
+
 
 ### 📅 summer 2021
 
