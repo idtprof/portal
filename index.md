@@ -8,7 +8,9 @@
     <img alt="Facebook" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_facebook.png?raw=true" width="30"></a>&nbsp;
 <a href="https://twitter.com/i/lists/1010" rel="noopener noreferrer" target="_blank">
     <img alt="Twitter" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_twitter.png?raw=true" width="30"></a>&nbsp;
-    <a href="https://www.reddit.com/r/all" rel="noopener noreferrer" target="_blank">
+<a href="https://github.com/" rel="noopener noreferrer" target="_blank">
+    <img alt="GitHub" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_github.png?raw=true" width="30"></a>&nbsp;
+<a href="https://www.reddit.com/r/all" rel="noopener noreferrer" target="_blank">
     <img alt="Reddit" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_reddit.png?raw=true" width="30"></a>&nbsp;
 <a href="https://discord.com/login" rel="noopener noreferrer" target="_blank">
     <img alt="Discord" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_discord.png?raw=true" width="30"></a>&nbsp;
