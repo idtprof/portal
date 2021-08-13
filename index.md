@@ -6,14 +6,14 @@
     <img alt="gMail" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_gmail.png?raw=true" width="30"></a>&nbsp;
 <a href="https://www.facebook.com/?sk=h_chr" rel="noopener noreferrer" target="_blank">
     <img alt="Facebook" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_facebook.png?raw=true" width="30"></a>&nbsp;
+<a href="https://twitter.com/i/lists/1010" rel="noopener noreferrer" target="_blank">
+    <img alt="Twitter" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_twitter.png?raw=true" width="30"></a>&nbsp;
+    <a href="https://www.reddit.com/r/all" rel="noopener noreferrer" target="_blank">
+    <img alt="Reddit" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_reddit.png?raw=true" width="30"></a>&nbsp;
 <a href="https://discord.com/login" rel="noopener noreferrer" target="_blank">
     <img alt="Discord" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_discord.png?raw=true" width="30"></a>&nbsp;
 <a href="https://en.wikipedia.org/wiki/Portal:Technology" rel="noopener noreferrer" target="_blank">
     <img alt="Wikipedia" class="alignnone" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_wikipedia.png?raw=true" width="30"></a>&nbsp;
-<a href="https://www.reddit.com/r/all" rel="noopener noreferrer" target="_blank">
-    <img alt="Reddit" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_reddit.png?raw=true" width="30"></a>&nbsp;
-<a href="https://twitter.com/i/lists/1010" rel="noopener noreferrer" target="_blank">
-    <img alt="Twitter" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_twitter.png?raw=true" width="30"></a>&nbsp;
 <a href="https://voice.google.com/" rel="noopener noreferrer" target="_blank">
     <img alt="Google VOice" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_googlevoice.png?raw=true" width="30"></a>&nbsp;
 
