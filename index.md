@@ -35,11 +35,9 @@
 
 ### 🏫 ecc
 
-- [all my classes](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1){:target="_blank"}
-- [my book shelf](https://dcccd.blackboard.com/webapps/blackboard/content/contentWrapper.jsp?content_id=_24219337_1&displayName=Learning+Materials+-+IncludED+eBook&course_id=_633629_1&navItem=content&href=%2Fwebapps%2Fblackboard%2Fexecute%2Fblti%2FlaunchPlacement%3Fblti_placement_id%3D_130_1%26content_id%3D_24219337_1%26course_id%3D_633629_1){:target="_blank"}
+- [ecampus](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1){:target="_blank"} • [full class list](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1){:target="_blank"} • [my book shelf](https://dcccd.blackboard.com/webapps/blackboard/content/contentWrapper.jsp?content_id=_24219337_1&displayName=Learning+Materials+-+IncludED+eBook&course_id=_633629_1&navItem=content&href=%2Fwebapps%2Fblackboard%2Fexecute%2Fblti%2FlaunchPlacement%3Fblti_placement_id%3D_130_1%26content_id%3D_24219337_1%26course_id%3D_633629_1){:target="_blank"}
 - [my apps](https://account.activedirectory.windowsazure.com/r?whr=dcccd.edu#/applications){:target="_blank"}
 - [faculty one stop](https://dcccd.sharepoint.com/sites/FacultyOneStop){:target="_blank"}
-- [ecampus](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1){:target="_blank"}
 - [econnect](https://econnect.dcccd.edu/FacultyMenu.jsp){:target="_blank"}
 - [youtube](https://www.youtube.com/user/idtprof){:target="_blank"}
 - [trello](https://trello.com/b/bVLAG6pR/spring-2018){:target="_blank"}
