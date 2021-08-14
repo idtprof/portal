@@ -45,9 +45,8 @@
 
 ### 🛠 tools
 
-- [html5 editor](https://html5-editor.net/){:target="_blank"}
+- [html5](https://html5-editor.net/) • [md](https://pandao.github.io/editor.md/en.html){:target="_blank"}
 - [tinyMCE](https://www.tiny.cloud/docs/demo/full-featured/){:target="_blank"}
-- [editor.md](https://pandao.github.io/editor.md/en.html){:target="_blank"}
 - [jsfiddle](https://jsfiddle.net/){:target="_blank"}
 - [dirty markup](https://www.10bestdesign.com/dirtymarkup/){:target="_blank"}
 - [base64](https://www.textencode.com/encoder/generateBase64){:target="_blank"}
