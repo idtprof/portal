@@ -51,8 +51,7 @@
 - [base64](https://www.textencode.com/encoder/generateBase64){:target="_blank"}
 - [youtube studio](https://studio.youtube.com/){:target="_blank"}
 
-### 📅 fall 2021
-📅 [my fall schedule](https://www1.dcccd.edu/SchedulePreview/Credit/FALL/Instructor/0019078){:target="_blank"}
+### 📅 [fall 2021](https://www1.dcccd.edu/SchedulePreview/Credit/FALL/Instructor/0019078){:target="_blank"}
 - [artc-1305-51700](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_633629_1&url=){:target="_blank"} [ basic graphic design ]
 - [itse-1411-51900](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_646059_1&url=){:target="_blank"} [ beginning web programming ]
 - [itsy-1400-51G04](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_646076_1&url=){:target="_blank"} [ fundamentals of information security ]
