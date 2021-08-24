@@ -56,6 +56,7 @@
 - [itse-1411-51900](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_646059_1&url=){:target="_blank"} [ beginning web programming ]
 - [itsy-1400-51G04](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_646076_1&url=){:target="_blank"} [ fundamentals of information security ]
 - [itse-1429-51G04](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_646060_1&url=){:target="_blank"} [ programming logic and design ]
+
 - [itsc-1191-51G01](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_645768_1&url=){:target="_blank"} [ special topics, computer/info science ]
 - [itsc-1191-51G02](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_645769_1&url=){:target="_blank"} [ special topics, computer/info science ]
 - [itsc-1191-51G03](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_645770_1&url=){:target="_blank"} [ special topics, computer/info science ]
