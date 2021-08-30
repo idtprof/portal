@@ -25,7 +25,7 @@
 
 ### 📑 start.paco.org
 
-📚 `<code>`buks`[gp](https://gp.ent.sirsi.net/client/en_US/library "gp"){:target="_blank"} •  [houston](http://houstonlibrary.org/){:target="_blank"} • [el centro](https://libguides.elcentrocollege.edu/researchguides){:target="_blank"} • [shapiro](https://libguides.snhu.edu/home){:target="_blank"}\
+📚 `buks`[gp](https://gp.ent.sirsi.net/client/en_US/library "gp"){:target="_blank"} •  [houston](http://houstonlibrary.org/){:target="_blank"} • [el centro](https://libguides.elcentrocollege.edu/researchguides){:target="_blank"} • [shapiro](https://libguides.snhu.edu/home){:target="_blank"}\
 📧 [outlook](https://outlook.office.com/mail/inbox){:target="_blank"} • [calendar](https://outlook.office.com/calendar){:target="_blank"} • [sticky notes](https://www.onenote.com/stickynotes){:target="_blank"} • [slack](https://idtprof.slack.com/){:target="_blank"}\
 📑 <ins>apps:</ins> [photopea](https://www.photopea.com/){:target="_blank"} • [editpad](https://www.editpad.org/){:target="_blank"}\
 🎓 [mySNHU](https://my.snhu.edu/students/Pages/default.aspx){:target="_blank"} • [mail](https://sso-mail.snhu.edu/owa){:target="_blank"} • [520](https://learn.snhu.edu/d2l/home/757356){:target="_blank"}\
