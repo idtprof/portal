@@ -18,6 +18,7 @@
     <img alt="Wikipedia" class="alignnone" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_wikipedia.png?raw=true" width="30"></a>&nbsp;
 <a href="https://voice.google.com/" rel="noopener noreferrer" target="_blank">
     <img alt="Google Voice" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_googlevoice.png?raw=true" width="30"></a>&nbsp;
+<a href="https://web.telegram.org/" rel="noopener noreferrer" target="_blank">
     <img alt="Telegram" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_telegram.png?raw=true" width="30"></a>&nbsp;
 
 </h2>
