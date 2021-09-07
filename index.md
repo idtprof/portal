@@ -8,16 +8,18 @@
     <img alt="Facebook" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_facebook.png?raw=true" width="30"></a>&nbsp;
 <a href="https://twitter.com/i/lists/1010" rel="noopener noreferrer" target="_blank">
     <img alt="Twitter" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_twitter.png?raw=true" width="30"></a>&nbsp;
-<a href="https://github.com/" rel="noopener noreferrer" target="_blank">
+<a href="https://github.com/pacodotorg?tab=repositories" rel="noopener noreferrer" target="_blank">
     <img alt="GitHub" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_github.png?raw=true" width="30"></a>&nbsp;
 <a href="https://www.reddit.com/r/all" rel="noopener noreferrer" target="_blank">
     <img alt="Reddit" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_reddit.png?raw=true" width="30"></a>&nbsp;
 <a href="https://discord.com/login" rel="noopener noreferrer" target="_blank">
     <img alt="Discord" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_discord.png?raw=true" width="30"></a>&nbsp;
 <a href="https://en.wikipedia.org/wiki/Portal:Technology" rel="noopener noreferrer" target="_blank">
-    <img alt="Wikipedia" class="alignnone" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_wikipedia.png?raw=true" width="30"></a>&nbsp;
+    <img alt="Wikipedia" class="alignnone" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_wikipedia.png?raw=true" width="30"></a>&nbsp; 
 <a href="https://voice.google.com/" rel="noopener noreferrer" target="_blank">
-    <img alt="Google VOice" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_googlevoice.png?raw=true" width="30"></a>&nbsp;
+    <img alt="Google Voice" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_googlevoice.png?raw=true" width="30"></a>&nbsp;
+<a href="https://web.telegram.org/" rel="noopener noreferrer" target="_blank">
+    <img alt="Telegram" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_telegram.png?raw=true" width="30"></a>&nbsp;
 
 </h2>
 
@@ -25,6 +27,7 @@
 
 ### 📑 start.paco.org
 
+<<<<<<< HEAD
 📚 <ins>libraries:</ins> [gp](https://gp.ent.sirsi.net/client/en_US/library "gp"){:target="_blank"} •  [houston](http://houstonlibrary.org/){:target="_blank"} • [el centro](https://libguides.elcentrocollege.edu/researchguides){:target="_blank"} • [shapiro](https://libguides.snhu.edu/home){:target="_blank"}\
 📧 <ins>office:</ins> [365](https://www.office.com/?auth=2){:target="_blank"} • [outlook](https://outlook.office.com/mail/inbox){:target="_blank"} • [calendar](https://outlook.office.com/calendar){:target="_blank"} • [github](https://github.com/pacodotorg?tab=repositories){:target="_blank"} • [sticky notes](https://www.onenote.com/stickynotes){:target="_blank"} • [slack](https://idtprof.slack.com/){:target="_blank"} • [drive](https://drive.google.com/drive/folders/10vNVHvWsBjqardrxym2iR8cGIy6QYTqs){:target="_blank"} • [diigo](https://www.diigo.com/user/eccidtprof){:target="_blank"}\
 📑 <ins>apps:</ins> [photopea](https://www.photopea.com/){:target="_blank"} • [editpad](https://www.editpad.org/){:target="_blank"}\
@@ -32,36 +35,36 @@
 💻 [morioh](https://morioh.com/){:target="_blank"} • [code project](https://www.codeproject.com/){:target="_blank"} • [hacker news](https://news.ycombinator.com/){:target="_blank"} • [news360](https://news360.com/home){:target="_blank"} • [breaking](https://twitter.com/i/lists/1010){:target="_blank"}\
 👀 [reddit](https://www.reddit.com/r/WebdevTutorials/){:target="_blank"} • [zeitgeist](https://www.reddit.com/r/thedailyzeitgeist/){:target="_blank"} • [packt](https://www.packtpub.com/free-learning){:target="_blank"} • [tiktok](https://www.tiktok.com/){:target="_blank"} • [eff](https://fuckinghomepage.com/){:target="_blank"}\
 📺 [prime video](https://www.amazon.com/Amazon-Video/b/?node=2858778011){:target="_blank"} • [plex](https://app.plex.tv/desktop/#!/){:target="_blank"} • [youtube TV](https://tv.youtube.com/welcome/?utm_servlet=prod){:target="_blank"} • [phoenix](https://www.mipcm.com/){:target="_blank"} • [bowwow](https://www.campbowwow.com/grand-prairie/live-web-cams/){:target="_blank"}
+=======
+📚 `buks: `[gp](https://gp.ent.sirsi.net/client/en_US/library "gp"){:target="_blank"} •  [houston](http://houstonlibrary.org/){:target="_blank"} • [el centro](https://libguides.elcentrocollege.edu/researchguides){:target="_blank"} • [shapiro](https://libguides.snhu.edu/home){:target="_blank"}\
+📧 `comm: `[outlook](https://outlook.office.com/mail/inbox){:target="_blank"} • [calendar](https://outlook.office.com/calendar){:target="_blank"} • [sticky notes](https://www.onenote.com/stickynotes){:target="_blank"} • [slack](https://idtprof.slack.com/){:target="_blank"}\
+📑 `apps: `[photopea](https://www.photopea.com/){:target="_blank"} • [editpad](https://www.editpad.org/){:target="_blank"}\
+🎓 `snhu: `[mySNHU](https://my.snhu.edu/students/Pages/default.aspx){:target="_blank"} • [mail](https://sso-mail.snhu.edu/owa){:target="_blank"} • [520](https://learn.snhu.edu/d2l/home/757356){:target="_blank"}\
+💻 `code: `[reddit](https://www.reddit.com/r/WebdevTutorials/){:target="_blank"} • [morioh](https://morioh.com/){:target="_blank"} • [code project](https://www.codeproject.com/){:target="_blank"}\
+👀 `news: `[360](https://news360.com/home){:target="_blank"} • [zeitgeist](https://www.reddit.com/r/thedailyzeitgeist/){:target="_blank"} • [hacker news](https://news.ycombinator.com/){:target="_blank"} • [packt](https://www.packtpub.com/free-learning){:target="_blank"} • [effhomepage](https://fuckinghomepage.com/){:target="_blank"} • [phoenix](https://www.mipcm.com/){:target="_blank"}\
+📺 `look: `[prime video](https://www.amazon.com/Amazon-Video/b/?node=2858778011){:target="_blank"} • [plex](https://app.plex.tv/desktop/#!/){:target="_blank"} • [youtube TV](https://tv.youtube.com/welcome/?utm_servlet=prod){:target="_blank"} • [tiktok](https://www.tiktok.com/){:target="_blank"}
+>>>>>>> 1026cb13c9ed77792b5026b80c7314844a219563
 
 ### 🏫 ecc
 
-- [my apps](https://account.activedirectory.windowsazure.com/r?whr=dcccd.edu#/applications){:target="_blank"}
-- [faculty one stop](https://dcccd.sharepoint.com/sites/FacultyOneStop){:target="_blank"}
-- [ecampus](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1){:target="_blank"}
-- [econnect](https://econnect.dcccd.edu/FacultyMenu.jsp){:target="_blank"}
+- [apps](https://account.activedirectory.windowsazure.com/r?whr=dcccd.edu#/applications){:target="_blank"} • [drive](https://drive.google.com/drive/folders/10vNVHvWsBjqardrxym2iR8cGIy6QYTqs){:target="_blank"} • [diigo](https://www.diigo.com/user/eccidtprof){:target="_blank"}
+- [one stop](https://dcccd.sharepoint.com/sites/FacultyOneStop){:target="_blank"}
+- [econnect](https://econnect.dcccd.edu/FacultyMenu.jsp){:target="_blank"} • [ecampus](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1){:target="_blank"} • [my book shelf](https://dcccd.blackboard.com/webapps/blackboard/content/contentWrapper.jsp?content_id=_24219337_1&displayName=Learning+Materials+-+IncludED+eBook&course_id=_633629_1&navItem=content&href=%2Fwebapps%2Fblackboard%2Fexecute%2Fblti%2FlaunchPlacement%3Fblti_placement_id%3D_130_1%26content_id%3D_24219337_1%26course_id%3D_633629_1){:target="_blank"}
 - [youtube](https://www.youtube.com/user/idtprof){:target="_blank"}
 - [trello](https://trello.com/b/bVLAG6pR/spring-2018){:target="_blank"}
 - [gist](https://gist.github.com/){:target="_blank"}
 
 ### 🛠 tools
 
-- [html5 editor](https://html5-editor.net/){:target="_blank"}
-- [tinyMCE](https://www.tiny.cloud/docs/demo/full-featured/){:target="_blank"}
-- [editor.md](https://pandao.github.io/editor.md/en.html){:target="_blank"}
-- [jsfiddle](https://jsfiddle.net/){:target="_blank"}
-- [dirty markup](https://www.10bestdesign.com/dirtymarkup/){:target="_blank"}
+- [html5](https://html5-editor.net/){:target="_blank"} • [md](https://pandao.github.io/editor.md/en.html){:target="_blank"} • [tinyMCE](https://www.tiny.cloud/docs/demo/full-featured/){:target="_blank"} • [dirty markup](https://www.10bestdesign.com/dirtymarkup/){:target="_blank"} • [jsfiddle](https://jsfiddle.net/){:target="_blank"}
 - [base64](https://www.textencode.com/encoder/generateBase64){:target="_blank"}
 - [youtube studio](https://studio.youtube.com/){:target="_blank"}
 
-### 📅 fall 2021
-
+### 📅 [fall 2021](https://www1.dcccd.edu/SchedulePreview/Credit/FALL/Instructor/0019078){:target="_blank"}
+- [full class list](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1){:target="_blank"}
 - [artc-1305-51700](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_633629_1&url=){:target="_blank"} [ basic graphic design ]
 - [itse-1411-51900](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_646059_1&url=){:target="_blank"} [ beginning web programming ]
-- [itsy-1400-51G04](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_646076_1&url=){:target="_blank"} [ fundamentals of information security ]
 - [itse-1429-51G04](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_646060_1&url=){:target="_blank"} [ programming logic and design ]
-- [itsc-1191-51G01](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_645768_1&url=){:target="_blank"} [ special topics, computer/info science ]
-- [itsc-1191-51G02](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_645769_1&url=){:target="_blank"} [ special topics, computer/info science ]
-- [itsc-1191-51G03](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_645770_1&url=){:target="_blank"} [ special topics, computer/info science ]
 
 ### 📅 summer 2021
 
