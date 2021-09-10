@@ -27,13 +27,13 @@
 
 ### 📑 start.paco.org
 
-📚 `buks: `[gp](https://gp.ent.sirsi.net/client/en_US/library "gp"){:target="_blank"} •  [houston](http://houstonlibrary.org/){:target="_blank"} • [el centro](https://libguides.elcentrocollege.edu/researchguides){:target="_blank"} • [shapiro](https://libguides.snhu.edu/home){:target="_blank"}\
-📧 `comm: `[outlook](https://outlook.office.com/mail/inbox){:target="_blank"} • [calendar](https://outlook.office.com/calendar){:target="_blank"} • [sticky notes](https://www.onenote.com/stickynotes){:target="_blank"} • [slack](https://idtprof.slack.com/){:target="_blank"}\
-📑 `apps: `[photopea](https://www.photopea.com/){:target="_blank"} • [editpad](https://www.editpad.org/){:target="_blank"}\
-🎓 `snhu: `[mySNHU](https://my.snhu.edu/students/Pages/default.aspx){:target="_blank"} • [mail](https://sso-mail.snhu.edu/owa){:target="_blank"}\
-💻 `code: `[reddit](https://www.reddit.com/r/WebdevTutorials/){:target="_blank"} • [morioh](https://morioh.com/){:target="_blank"} • [code project](https://www.codeproject.com/){:target="_blank"}\
-👀 `news: `[360](https://news360.com/home){:target="_blank"} • [520](https://learn.snhu.edu/d2l/home/757356){:target="_blank"} • [zeitgeist](https://www.reddit.com/r/thedailyzeitgeist/){:target="_blank"} • [hacker news](https://news.ycombinator.com/){:target="_blank"} • [packt](https://www.packtpub.com/free-learning){:target="_blank"} • [eff](https://fuckinghomepage.com/){:target="_blank"}\
-📺 `look: `[prime](https://www.amazon.com/Amazon-Video/b/?node=2858778011){:target="_blank"} • [plex](https://app.plex.tv/desktop/#!/){:target="_blank"} • [youtube TV](https://tv.youtube.com/welcome/?utm_servlet=prod){:target="_blank"} • [tiktok](https://www.tiktok.com/){:target="_blank"} • [phoenix](https://www.mipcm.com/){:target="_blank"} • [bowwow](https://www.campbowwow.com/grand-prairie/live-web-cams/){:target="_blank"}
+📚 `buks:` [gp](https://gp.ent.sirsi.net/client/en_US/library "gp"){:target="_blank"} •  [houston](http://houstonlibrary.org/){:target="_blank"} • [el centro](https://libguides.elcentrocollege.edu/researchguides){:target="_blank"} • [shapiro](https://libguides.snhu.edu/home){:target="_blank"}\
+📧 `comm:` [outlook](https://outlook.office.com/mail/inbox){:target="_blank"} • [calendar](https://outlook.office.com/calendar){:target="_blank"} • [sticky notes](https://www.onenote.com/stickynotes){:target="_blank"} • [slack](https://idtprof.slack.com/){:target="_blank"}\
+📑 `apps:` [photopea](https://www.photopea.com/){:target="_blank"} • [editpad](https://www.editpad.org/){:target="_blank"}\
+🎓 `snhu:` [mySNHU](https://my.snhu.edu/students/Pages/default.aspx){:target="_blank"} • [mail](https://sso-mail.snhu.edu/owa){:target="_blank"}\
+💻 `code:` [reddit](https://www.reddit.com/r/WebdevTutorials/){:target="_blank"} • [morioh](https://morioh.com/){:target="_blank"} • [code project](https://www.codeproject.com/){:target="_blank"}\
+👀 `news:` [360](https://news360.com/home){:target="_blank"} • [520](https://learn.snhu.edu/d2l/home/757356){:target="_blank"} • [zeitgeist](https://www.reddit.com/r/thedailyzeitgeist/){:target="_blank"} • [hacker news](https://news.ycombinator.com/){:target="_blank"} • [packt](https://www.packtpub.com/free-learning){:target="_blank"} • [eff](https://fuckinghomepage.com/){:target="_blank"}\
+📺 `look:` [prime](https://www.amazon.com/Amazon-Video/b/?node=2858778011){:target="_blank"} • [plex](https://app.plex.tv/desktop/#!/){:target="_blank"} • [youtube TV](https://tv.youtube.com/welcome/?utm_servlet=prod){:target="_blank"} • [tiktok](https://www.tiktok.com/){:target="_blank"} • [phoenix](https://www.mipcm.com/){:target="_blank"} • [bowwow](https://www.campbowwow.com/grand-prairie/live-web-cams/){:target="_blank"}
 
 ### 🏫 ecc
 
