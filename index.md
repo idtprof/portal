@@ -55,7 +55,7 @@
 - [full class list](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1){:target="_blank"}
 - [artc-1305-51700](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_633629_1&url=){:target="_blank"} [ basic graphic design ]
 - [itse-1429-51G04](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_646060_1&url=){:target="_blank"} [ programming logic and design ]
-- [itse-2417-51900](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_24359200_1&url=){:target="_blank"} [ java programming ]
+- [itse-2417-51900](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_641362_1&url=){:target="_blank"} [ java programming ]
 - [itse-1411-51900](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_646059_1&url=){:target="_blank"} [ beginning web programming ]
 
 ### 📅 summer 2021
