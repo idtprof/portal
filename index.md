@@ -119,7 +119,6 @@
 * [ms-dos games](https://archive.org/details/softwarelibrary_msdos_games/v2){:target="_blank"}
 * [o’reilly radar](http://radar.oreilly.com/){:target="_blank"}
 * [retrocomputing porn](http://www.pinterest.com/hezad/retrocomputing-porn/){:target="_blank"}
-* [valleywag](http://valleywag.gawker.com/){:target="_blank"}
 
 ### linux
 
