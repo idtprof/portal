@@ -10,8 +10,6 @@
     <img alt="Twitter" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_twitter.png?raw=true" width="30"></a>&nbsp;
 <a href="https://www.reddit.com/r/all" rel="noopener noreferrer" target="_blank">
     <img alt="Reddit" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_reddit.png?raw=true" width="30"></a>&nbsp;
-<a href="https://discord.com/login" rel="noopener noreferrer" target="_blank">
-    <img alt="Discord" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_discord.png?raw=true" width="30"></a>&nbsp;
 <a href="https://mail.google.com/chat" rel="noopener noreferrer" target="_blank">
     <img alt="Google Chat" class="alignnone" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_googlechat.png?raw=true" width="30"></a>&nbsp; 
 <a href="https://voice.google.com/" rel="noopener noreferrer" target="_blank">
@@ -26,6 +24,9 @@
 
 <a href="https://replit.com/~" rel="noopener noreferrer" target="_blank">
     <img alt="repl.it" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_replit.png?raw=true" width="30"></a>&nbsp;
+
+<a href="https://discord.com/login" rel="noopener noreferrer" target="_blank">
+    <img alt="Discord" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_discord.png?raw=true" width="30"></a>&nbsp;
 
 <h2>
 
