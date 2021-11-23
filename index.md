@@ -34,12 +34,12 @@
 
 ### 🚀 start.paco.org
 
-📚 `buks:` [gp](https://gp.ent.sirsi.net/client/en_US/library "gp"){:target="_blank"} •  [houston](http://houstonlibrary.org/){:target="_blank"} • [el centro](https://libguides.elcentrocollege.edu/researchguides){:target="_blank"} • [shapiro](https://libguides.snhu.edu/home){:target="_blank"} • [packt](https://www.packtpub.com/free-learning){:target="_blank"}\
+📚 `buks:` [gp](https://gp.ent.sirsi.net/client/en_US/library "gp"){:target="_blank"} •  [houston](https://houstonlibrary.org/){:target="_blank"} • [el centro](https://libguides.elcentrocollege.edu/researchguides){:target="_blank"} • [shapiro](https://libguides.snhu.edu/home){:target="_blank"} • [packt](https://www.packtpub.com/free-learning){:target="_blank"}\
 📧 `comm:` [📮](https://outlook.office365.com/mail/inbox){:target="_blank"} • [📅](https://outlook.office.com/calendar){:target="_blank"} • [📝](https://www.onenote.com/stickynotes){:target="_blank"} • [slack](https://idtprof.slack.com/){:target="_blank"}\
 📑 `apps:` [photopea](https://www.photopea.com/){:target="_blank"} • [editpad](https://www.editpad.org/){:target="_blank"} • [C64](https://commodore.ca/arcade/Commodore-64-Emulator.html){:target="_blank"}\
 🎓 `snhu:` [mySNHU](https://my.snhu.edu/students/Pages/default.aspx){:target="_blank"} • [mail](https://sso-mail.snhu.edu/owa){:target="_blank"}\
 💻 `code:` [reddit](https://www.reddit.com/r/WebdevTutorials/){:target="_blank"} • [morioh](https://morioh.com/){:target="_blank"} • [code project](https://www.codeproject.com/){:target="_blank"}\
-👀 `news:` [xa](http://xahlee.info/index.html){:target="_blank"} • [360](https://news360.com/home){:target="_blank"} • [520](https://learn.snhu.edu/d2l/home/757356){:target="_blank"} • [zeitgeist](https://www.reddit.com/r/thedailyzeitgeist/){:target="_blank"} • [hacker](https://news.ycombinator.com/){:target="_blank"} • [eff](https://fuckinghomepage.com/){:target="_blank"} • [gog](https://www.gog.show/){:target="_blank"}\
+👀 `news:` [xa](https://xahlee.info/index.html){:target="_blank"} • [360](https://news360.com/home){:target="_blank"} • [520](https://learn.snhu.edu/d2l/home/757356){:target="_blank"} • [zeitgeist](https://www.reddit.com/r/thedailyzeitgeist/){:target="_blank"} • [hacker](https://news.ycombinator.com/){:target="_blank"} • [eff](https://fuckinghomepage.com/){:target="_blank"} • [gog](https://www.gog.show/){:target="_blank"}\
 📺 `look:` [prime](https://www.amazon.com/Amazon-Video/b/?node=2858778011){:target="_blank"} • [plex](https://app.plex.tv/desktop/#!/){:target="_blank"} • [youtube TV](https://tv.youtube.com/welcome/?utm_servlet=prod){:target="_blank"} • [tiktok](https://www.tiktok.com/){:target="_blank"} • [<span class="ec ec-dog"></span>
 ](https://www.mipcm.com/){:target="_blank"} • [🐕](https://www.campbowwow.com/grand-prairie/live-web-cams/){:target="_blank"}
 
@@ -83,126 +83,126 @@
 
 ### biz
 
-* [felix salmon](http://www.felixsalmon.com/){:target="_blank"}
-* [marketplace](http://www.marketplace.org/){:target="_blank"}
-* [marketwatch](http://www.marketwatch.com/){:target="_blank"}
+* [felix salmon](https://www.felixsalmon.com/){:target="_blank"}
+* [marketplace](https://www.marketplace.org/){:target="_blank"}
+* [marketwatch](https://www.marketwatch.com/){:target="_blank"}
 * [paul ford](https://medium.com/@ftrain/latest){:target="_blank"}
-* [planet money](http://www.npr.org/blogs/money/){:target="_blank"}
+* [planet money](https://www.npr.org/blogs/money/){:target="_blank"}
 
 ### design
 
 * [adactio](https://adactio.com/){:target="_blank"}
-* [creativebloq](http://www.creativebloq.com/){:target="_blank"}
-* [dafont](http://www.dafont.com/){:target="_blank"}
-* [deke](http://www.deke.com/){:target="_blank"}
+* [creativebloq](https://www.creativebloq.com/){:target="_blank"}
+* [dafont](https://www.dafont.com/){:target="_blank"}
+* [deke](https://www.deke.com/){:target="_blank"}
 * [demosthenes](https://thenewcode.com/){:target="_blank"}
-* [fontsquirrel](http://www.fontsquirrel.com/){:target="_blank"}
-* [tipsquirrel](http://www.tipsquirrel.com/){:target="_blank"}
+* [fontsquirrel](https://www.fontsquirrel.com/){:target="_blank"}
+* [tipsquirrel](https://www.tipsquirrel.com/){:target="_blank"}
 * [#webdesign](https://twitter.com/search?q=%23webdesign&src=hash&f=realtime){:target="_blank"}
-* [web designer ledger](http://webdesignledger.com/){:target="_blank"}
+* [web designer ledger](https://webdesignledger.com/){:target="_blank"}
 
 ### entertainment
 
-* [deadline hollywood](http://www.deadline.com/hollywood/){:target="_blank"} • [google music](https://play.google.com/music/listen){:target="_blank"} • [the playlist](https://theplaylist.net/){:target="_blank"} • [soma](http://somafm.com/){:target="_blank"} • [spotify](https://play.spotify.com/browse){:target="_blank"} • [tunein](http://tunein.com/){:target="_blank"}
+* [deadline hollywood](https://www.deadline.com/hollywood/){:target="_blank"} • [google music](https://play.google.com/music/listen){:target="_blank"} • [the playlist](https://theplaylist.net/){:target="_blank"} • [soma](https://somafm.com/){:target="_blank"} • [spotify](https://play.spotify.com/browse){:target="_blank"} • [tunein](https://tunein.com/){:target="_blank"}
 
 ### fun
 
-* [148 Apps](http://www.148apps.com/){:target="_blank"}
-* [9GAG](http://9gag.com/){:target="_blank"}
-* [the awl](http://www.theawl.com/){:target="_blank"}
-* [the best page in the universe](http://maddox.xmission.com/){:target="_blank"}
-* [comics curmudgeon](http://joshreads.com/){:target="_blank"}
-* [cracked](http://www.cracked.com/){:target="_blank"}
-* [the daily show](http://www.thedailyshow.com/){:target="_blank"}
-* [the oatmeal](http://theoatmeal.com/){:target="_blank"}
-* [the poke](http://www.thepoke.co.uk/){:target="_blank"}
-* [slurper](http://darkgate.net/comic/){:target="_blank"}
-* [sugar toast](http://www.sugartoast.com/){:target="_blank"}
+* [148 Apps](https://www.148apps.com/){:target="_blank"}
+* [9GAG](https://9gag.com/){:target="_blank"}
+* [the awl](https://www.theawl.com/){:target="_blank"}
+* [the best page in the universe](https://maddox.xmission.com/){:target="_blank"}
+* [comics curmudgeon](https://joshreads.com/){:target="_blank"}
+* [cracked](https://www.cracked.com/){:target="_blank"}
+* [the daily show](https://www.thedailyshow.com/){:target="_blank"}
+* [the oatmeal](https://theoatmeal.com/){:target="_blank"}
+* [the poke](https://www.thepoke.co.uk/){:target="_blank"}
+* [slurper](https://darkgate.net/comic/){:target="_blank"}
+* [sugar toast](https://www.sugartoast.com/){:target="_blank"}
 
 ### geek
 
-* [den of geek](http://www.denofgeek.us/){:target="_blank"}
+* [den of geek](https://www.denofgeek.us/){:target="_blank"}
 * [internet arcade](https://archive.org/details/internetarcade){:target="_blank"}
 * [ms-dos games](https://archive.org/details/softwarelibrary_msdos_games/v2){:target="_blank"}
-* [o’reilly radar](http://radar.oreilly.com/){:target="_blank"}
-* [retrocomputing porn](http://www.pinterest.com/hezad/retrocomputing-porn/){:target="_blank"}
+* [o’reilly radar](https://radar.oreilly.com/){:target="_blank"}
+* [retrocomputing porn](https://www.pinterest.com/hezad/retrocomputing-porn/){:target="_blank"}
 
 ### linux
 
-* [dedoimedo](http://www.dedoimedo.com/){:target="_blank"}
-* [distrowatch](http://distrowatch.com/){:target="_blank"}
-* [LinuxG](http://linuxg.net/){:target="_blank"}
+* [dedoimedo](https://www.dedoimedo.com/){:target="_blank"}
+* [distrowatch](https://distrowatch.com/){:target="_blank"}
+* [LinuxG](https://linuxg.net/){:target="_blank"}
 
 ### media
 
-* [buzz machine](http://buzzmachine.com/){:target="_blank"}
-* [editor’s weblog](http://blog.wan-ifra.org/blogs/editorial){:target="_blank"}
-* [mediabistro](http://www.mediabistro.com/){:target="_blank"}
-* [mediaite](http://www.mediaite.com/){:target="_blank"}
+* [buzz machine](https://buzzmachine.com/){:target="_blank"}
+* [editor’s weblog](https://blog.wan-ifra.org/blogs/editorial){:target="_blank"}
+* [mediabistro](https://www.mediabistro.com/){:target="_blank"}
+* [mediaite](https://www.mediaite.com/){:target="_blank"}
 
 ### news
 
-* [Al Jazeera](http://america.aljazeera.com/){:target="_blank"}
+* [Al Jazeera](https://america.aljazeera.com/){:target="_blank"}
 * [BBC News](https://www.bbc.com/news){:target="_blank"}
-* [BuzzFeed](http://www.buzzfeed.com/){:target="_blank"}
-* [FlavorWire](http://flavorwire.com/){:target="_blank"}
+* [BuzzFeed](https://www.buzzfeed.com/){:target="_blank"}
+* [FlavorWire](https://flavorwire.com/){:target="_blank"}
 * [Google News](https://news.google.com/){:target="_blank"}
-* [Newser](http://www.newser.com/){:target="_blank"}
-* [Newsola](http://www.newsola.com/#/us/){:target="_blank"}
-* [Politico](http://www.politico.com/){:target="_blank"}
-* [ProPublica](http://www.propublica.org/){:target="_blank"}
-* [TruthDig](http://www.truthdig.com/){:target="_blank"}
+* [Newser](https://www.newser.com/){:target="_blank"}
+* [Newsola](https://www.newsola.com/#/us/){:target="_blank"}
+* [Politico](https://www.politico.com/){:target="_blank"}
+* [ProPublica](https://www.propublica.org/){:target="_blank"}
+* [TruthDig](https://www.truthdig.com/){:target="_blank"}
 
 ### skul
 
-* [Adobe Education Exchange](http://edex.adobe.com/){:target="_blank"}
+* [Adobe Education Exchange](https://edex.adobe.com/){:target="_blank"}
 * [Khan Academy](https://www.khanacademy.org/){:target="_blank"}
-* [Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com/){:target="_blank"}
-* [Programmr](http://www.programmr.com/){:target="_blank"}
-* [r/Progamming](http://www.reddit.com/r/programming/){:target="_blank"}
-* [Ruby Monk](http://rubymonk.com/){:target="_blank"}
-* [TutsPlus free courses](http://tutsplus.com/courses?filter=free&page=1){:target="_blank"}
+* [Microsoft Virtual Academy](https://www.microsoftvirtualacademy.com/){:target="_blank"}
+* [Programmr](https://www.programmr.com/){:target="_blank"}
+* [r/Progamming](https://www.reddit.com/r/programming/){:target="_blank"}
+* [Ruby Monk](https://rubymonk.com/){:target="_blank"}
+* [TutsPlus free courses](https://tutsplus.com/courses?filter=free&page=1){:target="_blank"}
 * [Udemy](https://www.udemy.com/learn-html5-programming-from-scratch){:target="_blank"}
-* [Yale](http://oyc.yale.edu/courses){:target="_blank"}
+* [Yale](https://oyc.yale.edu/courses){:target="_blank"}
 
 ### software
 
 * [Ninite](https://ninite.com/){:target="_blank"}
-* [No Nags](http://www.nonags.com/){:target="_blank"}
-* [SnapFiles](http://www.webattack.com/){:target="_blank"}
+* [No Nags](https://www.nonags.com/){:target="_blank"}
+* [SnapFiles](https://www.webattack.com/){:target="_blank"}
 * [Photoshop News](https://news.google.com/news/section?pz=1&cf=all&ned=us&hl=en&csid=e652abcb31280b79&redirect=true){:target="_blank"}
 
 ### tech/science news
 
-* [Boy Genius Report](http://bgr.com/){:target="_blank"}
+* [Boy Genius Report](https://bgr.com/){:target="_blank"}
 * [Daily Tech News Show](https://www.reddit.com/r/DailyTechNewsShow/){:target="_blank"}
-* [Digital Trends](http://www.digitaltrends.com/){:target="_blank"}
-* [Forbes Tech](http://www.forbes.com/technology/){:target="_blank"}
-* [FT Tech Blog](http://blogs.ft.com/tech-blog/){:target="_blank"}
+* [Digital Trends](https://www.digitaltrends.com/){:target="_blank"}
+* [Forbes Tech](https://www.forbes.com/technology/){:target="_blank"}
+* [FT Tech Blog](https://blogs.ft.com/tech-blog/){:target="_blank"}
 * [Hacker News](https://news.ycombinator.com/){:target="_blank"}
-* [MIT Technology Review](http://www.technologyreview.com/){:target="_blank"}
-* [Science Daily](http://www.sciencedaily.com/){:target="_blank"}
+* [MIT Technology Review](https://www.technologyreview.com/){:target="_blank"}
+* [Science Daily](https://www.sciencedaily.com/){:target="_blank"}
 * [Tim Bray](https://www.tbray.org/ongoing/){:target="_blank"}
-* [Wired](http://www.wired.com/){:target="_blank"}
+* [Wired](https://www.wired.com/){:target="_blank"}
 
 ### web tools/reference
 
 * [emoji library](https://ionicabizau.github.io/emoji.css/){:target="_blank"}
-* [Adachis](http://adachis.kinja.com/){:target="_blank"}
-* [Free Formatter](http://www.freeformatter.com/html-formatter.html#ad-output){:target="_blank"}
-* [Maildrop](http://maildrop.cc/){:target="_blank"}
-* [Speedball](http://www.flickr.com/photos/taffeta/sets/72157628903870575/){:target="_blank"}
-* [WebJournalist Tools](http://webjournalist.org/topics/tools/){:target="_blank"}
-* [Web Style Guide](http://webstyleguide.com/){:target="_blank"}
+* [Adachis](https://adachis.kinja.com/){:target="_blank"}
+* [Free Formatter](https://www.freeformatter.com/html-formatter.html#ad-output){:target="_blank"}
+* [Maildrop](https://maildrop.cc/){:target="_blank"}
+* [Speedball](https://www.flickr.com/photos/taffeta/sets/72157628903870575/){:target="_blank"}
+* [WebJournalist Tools](https://webjournalist.org/topics/tools/){:target="_blank"}
+* [Web Style Guide](https://webstyleguide.com/){:target="_blank"}
 
 ### weather
 
-* [Grand Prairie Map](http://www.wunderground.com/cgi-bin/findweather/getForecast?brand=wxmap&query=32.7049922,-97.01781729999999){:target="_blank"}
-* [NASA Weather](http://weather.msfc.nasa.gov/ghcc_home.html){:target="_blank"}
-* [NWS Weather](http://www.nws.noaa.gov/){:target="_blank"}
-* [Weather Channel](http://www.weather.com/){:target="_blank"}
-* [Weather Underground](http://www.wunderground.com/){:target="_blank"}
-* [Yahoo!](http://weather.yahoo.com/){:target="_blank"}
+* [Grand Prairie Map](https://www.wunderground.com/cgi-bin/findweather/getForecast?brand=wxmap&query=32.7049922,-97.01781729999999){:target="_blank"}
+* [NASA Weather](https://weather.msfc.nasa.gov/ghcc_home.html){:target="_blank"}
+* [NWS Weather](https://www.nws.noaa.gov/){:target="_blank"}
+* [Weather Channel](https://www.weather.com/){:target="_blank"}
+* [Weather Underground](https://www.wunderground.com/){:target="_blank"}
+* [Yahoo!](https://weather.yahoo.com/){:target="_blank"}
 
 ### what the tweet
 
@@ -259,7 +259,7 @@
 
 ### fall 2019
 
-[Fall 2019 Credit classes — IDT Calendar](http://alt.elcentrocollege.edu/Admissions/Schedule/2019/fall/subject/IT-Internet-Development-Technologies.php){:target="_blank"}
+[Fall 2019 Credit classes — IDT Calendar](https://alt.elcentrocollege.edu/Admissions/Schedule/2019/fall/subject/IT-Internet-Development-Technologies.php){:target="_blank"}
 [All my classes on eCampus](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1){:target="_blank"}
 
 * [artc-1305-51330](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_320019_1&handle=cp_announcements&mode=cpview){:target="_blank"} [ basic graphic design ]
@@ -276,7 +276,7 @@
 
 ### spring 2019
 
-[Spring 2019 Credit classes — IDT Calendar](http://alt.elcentrocollege.edu/Admissions/Schedule/2019/Spring/subject/IT-Internet-Development-Technologies.php){:target="_blank"}
+[Spring 2019 Credit classes — IDT Calendar](https://alt.elcentrocollege.edu/Admissions/Schedule/2019/Spring/subject/IT-Internet-Development-Technologies.php){:target="_blank"}
 [All my classes on eCampus](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1){:target="_blank"}
 
 * [artc-1302](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_294353_1&handle=announcements){:target="_blank"} (hyflex) [ digital imaging ]
@@ -289,7 +289,7 @@
 
 ### fall 2018
 
-[Fall 2018 Credit classes — IDT Calendar](http://alt.elcentrocollege.edu/Admissions/Schedule/2018/Fall/subject/IT-Internet-Development-Technologies.php){:target="_blank"}
+[Fall 2018 Credit classes — IDT Calendar](https://alt.elcentrocollege.edu/Admissions/Schedule/2018/Fall/subject/IT-Internet-Development-Technologies.php){:target="_blank"}
 [All my classes on eCampus](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1){:target="_blank"}
 
 * [artc-1302](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_281257_1&handle=cp_announcements&mode=cpview){:target="_blank"} (51400) [ digital imaging ]
