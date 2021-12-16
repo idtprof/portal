@@ -27,6 +27,8 @@
     <img alt="repl.it" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_replit.png?raw=true" width="30"></a>&nbsp;
 <a href="https://discord.com/channels/@me" rel="noopener noreferrer" target="_blank">
     <img alt="GitHub" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_discord.png?raw=true" width="30"></a>&nbsp;
+<a href="https://teams.microsoft.com/" rel="noopener noreferrer" target="_blank">
+    <img alt="GitHub" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_teams.png?raw=true" width="30"></a>&nbsp;
 
 </h2>
 
