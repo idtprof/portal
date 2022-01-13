@@ -63,7 +63,7 @@
 ### 📅 [spring  2022](https://www1.dcccd.edu/SchedulePreview/Credit/FALL/Instructor/0019078){:target="_blank"}
 - [full class list](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1){:target="_blank"}
 - [itse-1411-52900](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_655409_1&url=){:target="_blank"} [ beginning web programming ]
-- [itse-1429-51G04](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_646060_1&url=){:target="_blank"} [ programming logic and design ]
+- [itse-1429-22G03](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_660580_1&url=){:target="_blank"} [ programming logic and design ]
 - [itse-2417-51900](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_641362_1&url=){:target="_blank"} [ java programming ]
 - [itse-1411-51900](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_646059_1&url=){:target="_blank"} [ beginning web programming ]
 
