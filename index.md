@@ -65,7 +65,7 @@
 - [itse-1411-52900](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_655409_1&url=){:target="_blank"} [ beginning web programming ]
 - [itse-1429-22G03](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_660580_1&url=){:target="_blank"} [ programming logic and design ]
 - [itsc-1191-52G00](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_661242_1&url=){:target="_blank"} [ special topics ]
-- [itse-2417-52900](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_646059_1&url=){:target="_blank"} [ java programming ]
+- [itse-2417-52900](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_655417_1&url=){:target="_blank"} [ java programming ]
 - [itse-2409-52900](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_655414_1&url=){:target="_blank"} [ database programming ]
 
 ### 📅 [fall 2021](https://www1.dcccd.edu/SchedulePreview/Credit/FALL/Instructor/0019078){:target="_blank"}
