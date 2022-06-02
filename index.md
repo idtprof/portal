@@ -60,8 +60,10 @@
 - [base64](https://www.textencode.com/encoder/generateBase64){:target="_blank"}
 - [youtube studio](https://studio.youtube.com/){:target="_blank"}
 
-### 📅 [summer  2022](https://www1.dcccd.edu/SchedulePreview/Credit/FALL/Instructor/0019078){:target="_blank"}
+### 📅 [summer 2022](https://www1.dcccd.edu/SchedulePreview/Credit/FALL/Instructor/0019078){:target="_blank"}
 - [full class list](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1){:target="_blank"}
+- [itse-2402-23101](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_28138160_1&url=){:target="_blank"} [ intermediate web programming ]
+- [itse-1429-22G03](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_660580_1&url=){:target="_blank"} [ programming logic and design ]
 
 ### 📅 [spring  2022](https://www1.dcccd.edu/SchedulePreview/Credit/FALL/Instructor/0019078){:target="_blank"}
 - [full class list](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1){:target="_blank"}
