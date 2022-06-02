@@ -60,6 +60,9 @@
 - [base64](https://www.textencode.com/encoder/generateBase64){:target="_blank"}
 - [youtube studio](https://studio.youtube.com/){:target="_blank"}
 
+### 📅 [summer  2022](https://www1.dcccd.edu/SchedulePreview/Credit/FALL/Instructor/0019078){:target="_blank"}
+- [full class list](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1){:target="_blank"}
+
 ### 📅 [spring  2022](https://www1.dcccd.edu/SchedulePreview/Credit/FALL/Instructor/0019078){:target="_blank"}
 - [full class list](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1){:target="_blank"}
 - [itse-1411-52900](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_655409_1&url=){:target="_blank"} [ beginning web programming ]
@@ -224,7 +227,3 @@
 * * *
 
 ### 💾 archives
-
-## fall 2020
-
-- [artv-2470-51806](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_567854_1&url=){:target="_blank"} [ handheld device web app dev ]
