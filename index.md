@@ -62,6 +62,7 @@
 
 ### 📅 [fall 2022](https://www1.dcccd.edu/SchedulePreview/Credit/FALL/Instructor/0019078){:target="_blank"}
 - [full class list](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1){:target="_blank"}
+- [itse-1425-81301](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_686222_1&url=){:target="_blank"} [ personal computer hardware ]
 - [itse-1329-51903](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_684083_1&url=){:target="_blank"} [ programming logic and design ]
 - [itsc-1416-51700](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_683527_1&url=){:target="_blank"} [ linux install & configuration ]
 - [itsc-1416-81700](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_685598_1&url=){:target="_blank"} [ linux install & configuration ]
