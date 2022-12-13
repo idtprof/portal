@@ -90,22 +90,6 @@
 - [itse-2417-51900](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_641362_1&url=){:target="_blank"} [ java programming ]
 - [itse-1411-51900](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_646059_1&url=){:target="_blank"} [ beginning web programming ]
 
-### 📅 summer 2021
-
-- [itsc-1405-53840](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_629357_1&url=){:target="_blank"} [ intro to pc operating systems ]
-- [itse-1425-53841](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_629361_1&url=){:target="_blank"} [ personal computer hardware ]
-- [itse-1429-53853](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_629363_1&url=){:target="_blank"} [ programming logic and design ]
-- [itse-2402-53G01](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_641515_1&url=){:target="_blank"} [ intermediate web programming ]
-
-### 📅 spring 2021
-
-- [artv-2470-52400](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_576724_1&url=){:target="_blank"} [ handheld device web app dev ]
-- [artv-2471-52e00](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_576726_1&url=){:target="_blank"} [ android app programming ]
-- [artv-2471-52e02](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_576728_1&url=){:target="_blank"} [ android app programming ]
-- [itnw-1408-52e00](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_571753_1&url=){:target="_blank"} [ imp/support client op sys ]
-- [itse-1411-52200](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_577245_1&url=){:target="_blank"} [ beg web programming ]
-- [itse-2410-52401](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_626441_1&url=){:target="_blank"} [ ios programming ]
-
 ### biz
 
 * [felix salmon](https://www.felixsalmon.com/){:target="_blank"}
