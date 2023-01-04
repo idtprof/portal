@@ -14,7 +14,9 @@
     <img alt="Google Chat" class="alignnone" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_googlechat.png?raw=true" width="30"></a>&nbsp; 
 <a href="https://voice.google.com/" rel="noopener noreferrer" target="_blank">
     <img alt="Google Voice" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_googlevoice.png?raw=true" width="30"></a>&nbsp;
-<a href="https://web.telegram.org/" rel="noopener noreferrer" target="_blank">
+<a href="https://mastodon.world/home" rel="noopener noreferrer" target="_blank">
+    <img alt="Telegram" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_mastodon.png?raw=true" width="30"></a>&nbsp;
+# <a href="https://web.telegram.org/" rel="noopener noreferrer" target="_blank">
     <img alt="Telegram" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_telegram.png?raw=true" width="30"></a>&nbsp;
 
 </h2>
@@ -59,6 +61,10 @@
 - [html5](https://html5-editor.net/){:target="_blank"} • [md](https://pandao.github.io/editor.md/en.html){:target="_blank"} • [tinyMCE](https://www.tiny.cloud/docs/demo/full-featured/){:target="_blank"} • [dirty markup](https://www.10bestdesign.com/dirtymarkup/){:target="_blank"} • [jsfiddle](https://jsfiddle.net/){:target="_blank"}
 - [base64](https://www.textencode.com/encoder/generateBase64){:target="_blank"}
 - [youtube studio](https://studio.youtube.com/){:target="_blank"}
+
+### 📅 [spring 2023](https://www1.dcccd.edu/SchedulePreview/Credit/FALL/Instructor/0019078){:target="_blank"}
+- [full class list](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1){:target="_blank"}
+- [itsc-1405-52G01](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_686222_1&url=){:target="_blank"} [ intro to pc operating systems ]
 
 ### 📅 [fall 2022](https://www1.dcccd.edu/SchedulePreview/Credit/FALL/Instructor/0019078){:target="_blank"}
 - [full class list](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1){:target="_blank"}
