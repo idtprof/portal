@@ -67,10 +67,10 @@
 ### 📅 [spring 2023](https://www1.dcccd.edu/SchedulePreview/Credit/FALL/Instructor/0019078){:target="_blank"}
 - [full class list](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1){:target="_blank"}
 - [itsc-1405-52G01](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_689021_1&url=){:target="_blank"} [ intro to pc operating systems ]
-- [itsc-1416-52G01](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_689021_1&url=){:target="_blank"} [ linux install/configuration ]
-- [itsc-1405-52G01](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_689021_1&url=){:target="_blank"} [ intro to pc operating systems ]
-- [itsc-1405-52G01](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_689021_1&url=){:target="_blank"} [ intro to pc operating systems ]
-- [itsc-1405-52G01](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_689021_1&url=){:target="_blank"} [ intro to pc operating systems ]
+- [itsc-1416-52G01](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_689023_1&url=){:target="_blank"} [ linux install/configuration ]
+- [itse-1329-52700](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_699890_1&url=){:target="_blank"} [ Programming Logic and Design ]
+- [itse-1329-52901](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_689035_1&url=){:target="_blank"} [ programming logic and design ]
+- [itse-1401-32G01](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_689041_1&url=){:target="_blank"} [ web design tools ]
 
 ### 📅 [fall 2022](https://www1.dcccd.edu/SchedulePreview/Credit/FALL/Instructor/0019078){:target="_blank"}
 - [full class list](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1){:target="_blank"}
