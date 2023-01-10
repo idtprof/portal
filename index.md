@@ -66,7 +66,7 @@
 
 ### 📅 [spring 2023](https://www1.dcccd.edu/SchedulePreview/Credit/FALL/Instructor/0019078){:target="_blank"}
 - [full class list](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1){:target="_blank"}
-- [itsc-1405-52G01](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_686222_1&url=){:target="_blank"} [ intro to pc operating systems ]
+- [itsc-1405-52G01](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_689021_1&url=){:target="_blank"} [ intro to pc operating systems ]
 
 ### 📅 [fall 2022](https://www1.dcccd.edu/SchedulePreview/Credit/FALL/Instructor/0019078){:target="_blank"}
 - [full class list](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1){:target="_blank"}
