@@ -68,7 +68,7 @@
 - [full class list](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1){:target="_blank"}
 - [itsc-1405-52G01](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_689021_1&url=){:target="_blank"} [ intro to pc operating systems ]
 
-### 📅 [spring 2023](https://www1.dcccd.edu/SchedulePreview/Credit/FALL/Instructor/0019078){:target="_blank"}
+### 📅 [spring 2023](https://www1.dcccd.edu/SchedulePreview/Credit/SPRING/Instructor/0019078){:target="_blank"}
 - [full class list](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1){:target="_blank"}
 - [itsc-1405-52G01](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_689021_1&url=){:target="_blank"} [ intro to pc operating systems ]
 - [itsc-1416-52G01](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_689023_1&url=){:target="_blank"} [ linux install/configuration ]
@@ -85,13 +85,13 @@
 - [artc-1305-51700](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_678530_1&url=){:target="_blank"} [ basic graphic design ]
 - [itsz-1000-84600](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_682577_1&url=){:target="_blank"} [ faculty salesforce training ]
 
-### 📅 [summer 2022](https://www1.dcccd.edu/SchedulePreview/Credit/FALL/Instructor/0019078){:target="_blank"}
+### 📅 [summer 2022](https://www1.dcccd.edu/SchedulePreview/Credit/SUMMER/Instructor/0019078){:target="_blank"}
 - [full class list](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1){:target="_blank"}
 - [itse-2402-23101](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_681884_1&url=){:target="_blank"} [ intermediate web programming ]
 - [itsc-1425-53841](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_668928_1&url=){:target="_blank"} [ personal computer hardware ]
 - [itsz-1000-84600](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_682577_1&url=){:target="_blank"} [ faculty salesforce training ]
 
-### 📅 [spring  2022](https://www1.dcccd.edu/SchedulePreview/Credit/FALL/Instructor/0019078){:target="_blank"}
+### 📅 [spring  2022](https://www1.dcccd.edu/SchedulePreview/Credit/SPRING/Instructor/0019078){:target="_blank"}
 - [full class list](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1){:target="_blank"}
 - [itse-1411-52900](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_655409_1&url=){:target="_blank"} [ beginning web programming ]
 - [itse-1429-22G03](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_660580_1&url=){:target="_blank"} [ programming logic and design ]
