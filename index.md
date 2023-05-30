@@ -66,7 +66,7 @@
 
 ### 📅 [summer 2023](https://www1.dcccd.edu/SchedulePreview/Credit/SUMMER/Instructor/0019078){:target="_blank"}
 - [full class list](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1){:target="_blank"}
-- [itsc-1325-54701](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_704444_1&url=){:target="_blank"} [ personal computer hardware ]
+- [itsc-1325-53701](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_704444_1&url=){:target="_blank"} [ personal computer hardware ]
 - [itsc-1329-53701](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_704473_1&url=){:target="_blank"} [ programming logic and design ]
 
 ### 📅 [spring 2023](https://www1.dcccd.edu/SchedulePreview/Credit/SPRING/Instructor/0019078){:target="_blank"}
