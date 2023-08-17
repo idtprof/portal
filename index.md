@@ -69,8 +69,10 @@
 ### 📅 [fall 2023](https://schedule.dallascollege.edu/FALL/Instructor/0019078){:target="_blank"}
 - [full class list](https://dallascollege.brightspace.com/d2l/home){:target="_blank"})
 - [itnw-1325-51900](https://dallascollege.brightspace.com/d2l/home/75596){:target="_blank"} [ fund of networking tech ]
-- [itsc-1325-53701](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_704444_1&url=){:target="_blank"} [ personal computer hardware ]
-- [itsc-1329-53701](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_704473_1&url=){:target="_blank"} [ programming logic and design ]
+- [itsc-1305-21700](https://dallascollege.brightspace.com/d2l/home/101640){:target="_blank"} [ intro to pc operating systems ]
+- [itsc-2325-81700](https://dallascollege.brightspace.com/d2l/home/102037){:target="_blank"} [ advanced linux ]
+- [itsy-1300-51G02](https://dallascollege.brightspace.com/d2l/home/84417){:target="_blank"} [ fund of information security ]
+- [itsy-1300-51G03](https://dallascollege.brightspace.com/d2l/home/84423){:target="_blank"} [ fund of information security ]
 
 ### 📅 [summer 2023](https://www1.dcccd.edu/SchedulePreview/Credit/SUMMER/Instructor/0019078){:target="_blank"}
 - [brightspace](https://dallascollege.brightspace.com/d2l/home){:target="_blank"}[fund of networking tech]
