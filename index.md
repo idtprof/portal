@@ -66,13 +66,13 @@
 - [base64](https://www.textencode.com/encoder/generateBase64){:target="_blank"}
 - [youtube studio](https://studio.youtube.com/){:target="_blank"}
 
-### 📅 [fall 2023](https://www1.dcccd.edu/SchedulePreview/Credit/SUMMER/Instructor/0019078){:target="_blank"}
-- [full class list](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1){:target="_blank"}
+### 📅 [fall 2023](https://dallascollege.brightspace.com/d2l/home){:target="_blank"}
+- [itnw-1325-51900](https://dallascollege.brightspace.com/d2l/home/75596){:target="_blank"}
 - [itsc-1325-53701](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_704444_1&url=){:target="_blank"} [ personal computer hardware ]
 - [itsc-1329-53701](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_704473_1&url=){:target="_blank"} [ programming logic and design ]
 
 ### 📅 [summer 2023](https://www1.dcccd.edu/SchedulePreview/Credit/SUMMER/Instructor/0019078){:target="_blank"}
-- [brightspace](https://dallascollege.brightspace.com/d2l/home){:target="_blank"}
+- [brightspace](https://dallascollege.brightspace.com/d2l/home){:target="_blank"}[fund of networking tech]
 - [itsc-1325-53701](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_704444_1&url=){:target="_blank"} [ personal computer hardware ]
 - [itsc-1329-53701](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_704473_1&url=){:target="_blank"} [ programming logic and design ]
 
