@@ -75,49 +75,6 @@
 - [itsy-1300-51G02](https://dallascollege.brightspace.com/d2l/home/84417){:target="_blank"} [ fund of information security ]
 - [itsy-1300-51G03](https://dallascollege.brightspace.com/d2l/home/84423){:target="_blank"} [ fund of information security ]
 
-### 📅 [summer 2023](https://www1.dcccd.edu/SchedulePreview/Credit/SUMMER/Instructor/0019078){:target="_blank"}
-- [brightspace](https://dallascollege.brightspace.com/d2l/home){:target="_blank"}[fund of networking tech]
-- [itsc-1325-53701](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_704444_1&url=){:target="_blank"} [ personal computer hardware ]
-- [itsc-1329-53701](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_704473_1&url=){:target="_blank"} [ programming logic and design ]
-
-### 📅 [spring 2023](https://www1.dcccd.edu/SchedulePreview/Credit/SPRING/Instructor/0019078){:target="_blank"}
-- [full class list](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1){:target="_blank"}
-- [itsc-1405-52G01](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_689021_1&url=){:target="_blank"} [ intro to pc operating systems ]
-- [itsc-1416-52G01](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_689023_1&url=){:target="_blank"} [ linux install/configuration ]
-- [itse-1329-52700](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_699890_1&url=){:target="_blank"} [ Programming Logic and Design ]
-- [itse-1329-52901](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_689035_1&url=){:target="_blank"} [ programming logic and design ]
-- [itse-1401-32G01](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_689041_1&url=){:target="_blank"} [ web design tools ]
-
-### 📅 [fall 2022](https://www1.dcccd.edu/SchedulePreview/Credit/FALL/Instructor/0019078){:target="_blank"}
-- [full class list](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1){:target="_blank"}
-- [itse-1425-81301](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_686222_1&url=){:target="_blank"} [ personal computer hardware ]
-- [itse-1329-51903](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_684083_1&url=){:target="_blank"} [ programming logic and design ]
-- [itsc-1416-51700](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_683527_1&url=){:target="_blank"} [ linux install & configuration ]
-- [itsc-1416-81700](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_685598_1&url=){:target="_blank"} [ linux install & configuration ]
-- [artc-1305-51700](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_678530_1&url=){:target="_blank"} [ basic graphic design ]
-- [itsz-1000-84600](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_682577_1&url=){:target="_blank"} [ faculty salesforce training ]
-
-### 📅 [summer 2022](https://www1.dcccd.edu/SchedulePreview/Credit/SUMMER/Instructor/0019078){:target="_blank"}
-- [full class list](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1){:target="_blank"}
-- [itse-2402-23101](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_681884_1&url=){:target="_blank"} [ intermediate web programming ]
-- [itsc-1425-53841](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_668928_1&url=){:target="_blank"} [ personal computer hardware ]
-- [itsz-1000-84600](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_682577_1&url=){:target="_blank"} [ faculty salesforce training ]
-
-### 📅 [spring  2022](https://www1.dcccd.edu/SchedulePreview/Credit/SPRING/Instructor/0019078){:target="_blank"}
-- [full class list](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1){:target="_blank"}
-- [itse-1411-52900](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_655409_1&url=){:target="_blank"} [ beginning web programming ]
-- [itse-1429-22G03](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_660580_1&url=){:target="_blank"} [ programming logic and design ]
-- [itsc-1191-52G00](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_661242_1&url=){:target="_blank"} [ special topics ]
-- [itse-2417-52900](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_655417_1&url=){:target="_blank"} [ java programming ]
-- [itse-2409-52900](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_655414_1&url=){:target="_blank"} [ database programming ]
-
-### 📅 [fall 2021](https://www1.dcccd.edu/SchedulePreview/Credit/FALL/Instructor/0019078){:target="_blank"}
-- [full class list](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1){:target="_blank"}
-- [artc-1305-51700](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_633629_1&url=){:target="_blank"} [ basic graphic design ]
-- [itse-1429-51G04](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_646060_1&url=){:target="_blank"} [ programming logic and design ]
-- [itse-2417-51900](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_641362_1&url=){:target="_blank"} [ java programming ]
-- [itse-1411-51900](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_646059_1&url=){:target="_blank"} [ beginning web programming ]
-
 ### biz
 
 * [felix salmon](https://www.felixsalmon.com/){:target="_blank"}
