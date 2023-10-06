@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 
 # Conversion
-markdown: kramdown
+markdown: redcarpet
 highlighter: rouge
 
 title: firg.xyz
