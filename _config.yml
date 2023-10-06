@@ -1,10 +1,11 @@
 theme: jekyll-theme-minimal
 
-markdown: kramdown
-
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
+# Conversion
+markdown            : kramdown
+highlighter         : rouge
+lsi                 : false
+excerpt_separator   : "\n\n"
+incremental         : false
 
 title: firg.xyz
 description: What's new again is old.
