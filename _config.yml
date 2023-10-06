@@ -1,5 +1,11 @@
 theme: jekyll-theme-minimal
 
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
 title: firg.xyz
 description: What's new again is old.
 
