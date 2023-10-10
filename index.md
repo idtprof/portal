@@ -54,7 +54,8 @@
 
 ### 🏫 ecc
 
-- [my dallas college](https://my.dallascollege.edu/){:target="_blank"}
+- [my dallas college](https://my.dallascollege.edu/){:target="_blank"} • [virtual desktop](https://client.wvd.microsoft.com/arm/webclient/index.html){:target="_blank"}
+
 - [one stop](https://dcccd.sharepoint.com/sites/FacultyOneStop){:target="_blank"} • [cetl](https://dcccd.sharepoint.com/sites/CETL){:target="_blank"} • [workday](https://www.myworkday.com/wday/authgwy/dallascollege/login.htmld?returnTo=%2fdallascollege%2fd%2fhome.htmld){:target="_blank"} • [cornerstone](https://dcccd.csod.com/LMS/catalog/Welcome.aspx?tab_page_id=-67&tab_id=-1){:target="_blank}
 - [apps](https://account.activedirectory.windowsazure.com/r?whr=dcccd.edu#/applications){:target="_blank"} • [drive](https://drive.google.com/drive/folders/10vNVHvWsBjqardrxym2iR8cGIy6QYTqs){:target="_blank"} • [diigo](https://www.diigo.com/user/eccidtprof){:target="_blank"}
 - [econnect](https://econnect.dcccd.edu/FacultyMenu.jsp){:target="_blank"} • [ecampus](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1){:target="_blank"} • [my book shelf](https://dcccd.blackboard.com/webapps/blackboard/content/contentWrapper.jsp?content_id=_24219337_1&displayName=Learning+Materials+-+IncludED+eBook&course_id=_633629_1&navItem=content&href=%2Fwebapps%2Fblackboard%2Fexecute%2Fblti%2FlaunchPlacement%3Fblti_placement_id%3D_130_1%26content_id%3D_24219337_1%26course_id%3D_633629_1){:target="_blank"}
