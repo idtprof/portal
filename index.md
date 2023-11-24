@@ -80,10 +80,8 @@
 
 ### biz
 
-* [felix salmon](https://www.felixsalmon.com/){:target="_blank"}
 * [marketplace](https://www.marketplace.org/){:target="_blank"}
 * [marketwatch](https://www.marketwatch.com/){:target="_blank"}
-* [paul ford](https://medium.com/@ftrain/latest){:target="_blank"}
 * [planet money](https://www.npr.org/blogs/money/){:target="_blank"}
 
 ### design
