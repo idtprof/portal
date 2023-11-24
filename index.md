@@ -192,15 +192,6 @@
 * [WebJournalist Tools](https://webjournalist.org/topics/tools/){:target="_blank"}
 * [Web Style Guide](https://webstyleguide.com/){:target="_blank"}
 
-### weather
-
-* [Grand Prairie Map](https://www.wunderground.com/cgi-bin/findweather/getForecast?brand=wxmap&query=32.7049922,-97.01781729999999){:target="_blank"}
-* [NASA Weather](https://weather.msfc.nasa.gov/ghcc_home.html){:target="_blank"}
-* [NWS Weather](https://www.nws.noaa.gov/){:target="_blank"}
-* [Weather Channel](https://www.weather.com/){:target="_blank"}
-* [Weather Underground](https://www.wunderground.com/){:target="_blank"}
-* [Yahoo!](https://weather.yahoo.com/){:target="_blank"}
-
 ### what the tweet
 
 * [@ComputerSociety](https://twitter.com/search?f=realtime&q=%40computersociety&src=typd){:target="_blank"}
