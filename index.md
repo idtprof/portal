@@ -14,7 +14,7 @@
     <img alt="Google Chat" class="alignnone" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_googlechat.png?raw=true" width="30"></a>&nbsp; 
 <a href="https://voice.google.com/" rel="noopener noreferrer" target="_blank">
     <img alt="Google Voice" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_googlevoice.png?raw=true" width="30"></a>&nbsp;
-<a href="https://mastodon.world/home" rel="noopener noreferrer" target="_blank">
+<a href="https://hachyderm.io/home" rel="noopener noreferrer" target="_blank">
     <img alt="Telegram" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_mastodon.png?raw=true" width="30"></a>&nbsp;
 <!---
 <a href="https://web.telegram.org/" rel="noopener noreferrer" target="_blank">
