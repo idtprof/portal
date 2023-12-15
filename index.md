@@ -10,8 +10,8 @@
     <img alt="Twitter" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_twitter.png?raw=true" width="30"></a>&nbsp;
 <a href="https://www.reddit.com/r/all" rel="noopener noreferrer" target="_blank">
     <img alt="Reddit" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_reddit.png?raw=true" width="30"></a>&nbsp;
-<a href="https://mail.google.com/chat" rel="noopener noreferrer" target="_blank">
-    <img alt="Google Chat" class="alignnone" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_googlechat.png?raw=true" width="30"></a>&nbsp; 
+<a href="https://web.whatsapp.com" rel="noopener noreferrer" target="_blank">
+    <img alt="WhatsApp" class="alignnone" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_whatsapp.png?raw=true" width="30"></a>&nbsp; 
 <a href="https://voice.google.com/" rel="noopener noreferrer" target="_blank">
     <img alt="Google Voice" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_googlevoice.png?raw=true" width="30"></a>&nbsp;
 <a href="https://hachyderm.io/home" rel="noopener noreferrer" target="_blank">
