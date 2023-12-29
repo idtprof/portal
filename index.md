@@ -54,7 +54,7 @@
 
 ### 🏫 ecc
 
-- 🎒 [my dallas college](https://my.dallascollege.edu/){:target="_blank"} • 🖥️ [virtual desktop](https://client.wvd.microsoft.com/arm/webclient/index.html){:target="_blank"}
+- 🎒 [my dc](https://my.dallascollege.edu/){:target="_blank"} • 🖥️ [virtual desktop](https://client.wvd.microsoft.com/arm/webclient/index.html){:target="_blank"}  • [the machine](https://windows365.microsoft.com/ent#/devices){:target="_blank"}
 
 - ⚙️ [one stop](https://dcccd.sharepoint.com/sites/FacultyOneStop){:target="_blank"} • [cetl](https://dcccd.sharepoint.com/sites/CETL){:target="_blank"} • [workday](https://www.myworkday.com/wday/authgwy/dallascollege/login.htmld?returnTo=%2fdallascollege%2fd%2fhome.htmld){:target="_blank"} • [cornerstone](https://dcccd.csod.com/LMS/catalog/Welcome.aspx?tab_page_id=-67&tab_id=-1){:target="_blank}
 - [apps](https://account.activedirectory.windowsazure.com/r?whr=dcccd.edu#/applications){:target="_blank"} • [drive](https://drive.google.com/drive/folders/10vNVHvWsBjqardrxym2iR8cGIy6QYTqs){:target="_blank"} • [diigo](https://www.diigo.com/user/eccidtprof){:target="_blank"}
