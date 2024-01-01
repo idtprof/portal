@@ -51,6 +51,7 @@
 -->
 💻 `code:` [reddit](https://www.reddit.com/r/WebdevTutorials/){:target="_blank"} • [morioh](https://morioh.com/){:target="_blank"} • [code project](https://www.codeproject.com/){:target="_blank"}\
 👀 `news:` [xa](http://www.xahlee.info){:target="_blank"} • [stratechery](https://stratechery.com/){:target="_blank"} • [520](https://learn.snhu.edu/d2l/home/757356){:target="_blank"} • [zeitgeist](https://www.reddit.com/r/thedailyzeitgeist/){:target="_blank"} • [hacker](https://news.ycombinator.com/){:target="_blank"} • [acm](https://cacm.acm.org/){:target="_blank"} • [gog](https://www.gog.show/){:target="_blank"} • [tweeps](https://twitter.com/i/lists/89128725){:target="_blank"}\
+>[blues](https://www.bluesnews.com/){:target="_blank"}\
 📺 `look:` [bbc](https://www.bbc.co.uk/iplayer){:target="_blank"} • [pluto](https://pluto.tv/en/live-tv/){:target="_blank"} • [prime](https://www.amazon.com/Amazon-Video/b/?node=2858778011){:target="_blank"} • [plex](https://app.plex.tv/desktop/#!/){:target="_blank"} • [live](https://app.plex.tv/desktop/#!/live-tv){:target="_blank"} • [ytTV](https://tv.youtube.com/welcome/?utm_servlet=prod){:target="_blank"} • [tiktok](https://www.tiktok.com/){:target="_blank"} • [<span class="ec ec-dog"></span>
 ](https://www.mipcm.com/){:target="_blank"} • [🐕](https://www.campbowwow.com/grand-prairie/live-web-cams/){:target="_blank"}
 
