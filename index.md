@@ -72,8 +72,17 @@
 - [base64](https://www.textencode.com/encoder/generateBase64){:target="_blank"}
 - [youtube studio](https://studio.youtube.com/){:target="_blank"}
 
-### 📅 [fall 2023](https://schedule.dallascollege.edu/FALL/Instructor/0019078){:target="_blank"}
+### 📅 [spring 2024](https://schedule.dallascollege.edu/FALL/Instructor/0019078){:target="_blank"}
 - [sked](https://schedule.dallascollege.edu/SPRING2024/Instructor/0019078) • [full class list](https://dallascollege.brightspace.com/d2l/home){:target="_blank"})
+- [red hat](https://sso.redhat.com/auth/realms/redhat-external/protocol/openid-connect/auth?response_type=code&client_id=rha-webapp-prod&redirect_uri=https%3A%2F%2Frha.ole.redhat.com%2Frha%2Fauth_idp%2F%40%40redirect&state=k7lkTbHXnByNp0Z6wt5rvDyINwE3PK){:target="_blank"}
+- [itnw-1325-51900](https://dallascollege.brightspace.com/d2l/home/75596){:target="_blank"} [ fund of networking tech ] • [quick eval](https://dallascollege.brightspace.com/d2l/le/75596/quickeval/){:target="_blank"}
+- [itsc-1305-21700](https://dallascollege.brightspace.com/d2l/home/101640){:target="_blank"} [ intro to pc operating systems ] • [quick eval](https://dallascollege.brightspace.com/d2l/le/101640/quickeval/){:target="_blank"}
+- [itsc-2325-81700](https://dallascollege.brightspace.com/d2l/home/102037){:target="_blank"} [ advanced linux ] • [quick eval](https://dallascollege.brightspace.com/d2l/le/102037/quickeval/){:target="_blank"}
+- [itsy-1300-51G02](https://dallascollege.brightspace.com/d2l/home/84417){:target="_blank"} [ fund of information security ]
+- [itsy-1300-51G03](https://dallascollege.brightspace.com/d2l/home/84423){:target="_blank"} [ fund of information security ]
+
+### 📅 [fall 2023](https://schedule.dallascollege.edu/FALL/Instructor/0019078){:target="_blank"}
+- [sked](https://schedule.dallascollege.edu/FALL2023/Instructor/0019078) • [full class list](https://dallascollege.brightspace.com/d2l/home){:target="_blank"})
 - [red hat](https://sso.redhat.com/auth/realms/redhat-external/protocol/openid-connect/auth?response_type=code&client_id=rha-webapp-prod&redirect_uri=https%3A%2F%2Frha.ole.redhat.com%2Frha%2Fauth_idp%2F%40%40redirect&state=k7lkTbHXnByNp0Z6wt5rvDyINwE3PK){:target="_blank"}
 - [itnw-1325-51900](https://dallascollege.brightspace.com/d2l/home/75596){:target="_blank"} [ fund of networking tech ] • [quick eval](https://dallascollege.brightspace.com/d2l/le/75596/quickeval/){:target="_blank"}
 - [itsc-1305-21700](https://dallascollege.brightspace.com/d2l/home/101640){:target="_blank"} [ intro to pc operating systems ] • [quick eval](https://dallascollege.brightspace.com/d2l/le/101640/quickeval/){:target="_blank"}
