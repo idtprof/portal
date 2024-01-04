@@ -16,12 +16,8 @@
     <img alt="Telegram" class="alignnone" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_telegram.png?raw=true" width="30"></a>&nbsp; 
 <a href="https://voice.google.com/" rel="noopener noreferrer" target="_blank">
     <img alt="Google Voice" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_googlevoice.png?raw=true" width="30"></a>&nbsp;
-<a href="https://hachyderm.io/home" rel="noopener noreferrer" target="_blank">
-    <img alt="Telegram" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_mastodon.png?raw=true" width="30"></a>&nbsp;
-<!---
-<a href="https://web.telegram.org/" rel="noopener noreferrer" target="_blank">
-    <img alt="Telegram" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_telegram.png?raw=true" width="30"></a>&nbsp;
--->
+<a href="https://www.youtube.com/" rel="noopener noreferrer" target="_blank">
+    <img alt="Telegram" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_youtube.png?raw=true" width="30"></a>&nbsp;
 
 </h2>
 
@@ -37,6 +33,8 @@
     <img alt="GitHub" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_teams.png?raw=true" width="30"></a>&nbsp;
 <a href="https://bsky.app/" rel="noopener noreferrer" target="_blank">
     <img alt="GitHub" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_bluesky.png?raw=true" width="30"></a>&nbsp;
+<a href="https://hachyderm.io/home" rel="noopener noreferrer" target="_blank">
+    <img alt="mastodon" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_mastodon.png?raw=true" width="30"></a>&nbsp;
 </h2>
 
 </div>
