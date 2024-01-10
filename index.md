@@ -77,8 +77,8 @@
 - [itnw-1325-52901](https://dallascollege.brightspace.com/d2l/home/129832){:target="_blank"} [ fund of networking tech ] • [quick eval](https://dallascollege.brightspace.com/d2l/le/129832/quickeval/){:target="_blank"}
 - [itnw-1325-82G01](https://dallascollege.brightspace.com/d2l/home/118214){:target="_blank"} [ fund of networking tech ] • [quick eval](https://dallascollege.brightspace.com/d2l/le/118214/quickeval/){:target="_blank"}
 - [itsc-1316-52801](https://dallascollege.brightspace.com/d2l/home/139332){:target="_blank"} [ linux install/configuration ] • [quick eval](https://dallascollege.brightspace.com/d2l/le/139332/quickeval/){:target="_blank"}
-- [itsc-2325-82500](https://dallascollege.brightspace.com/d2l/home/145163){:target="_blank"} [ programming logic and design ] • [quick eval](https://dallascollege.brightspace.com/d2l/le/145163/quickeval/){:target="_blank"}
-- [itsc-1329-82G01](https://dallascollege.brightspace.com/d2l/home/118374){:target="_blank"} [ fund of information security ] • [quick eval](https://dallascollege.brightspace.com/d2l/le/118374s/quickeval/){:target="_blank"}
+- [itsc-2325-82500](https://dallascollege.brightspace.com/d2l/home/145163){:target="_blank"} [ advanced linux ] • [quick eval](https://dallascollege.brightspace.com/d2l/le/145163/quickeval/){:target="_blank"}
+- [itsc-1329-82G01](https://dallascollege.brightspace.com/d2l/home/118374){:target="_blank"} [ programming logic and design ] • [quick eval](https://dallascollege.brightspace.com/d2l/le/118374s/quickeval/){:target="_blank"}
 
 ### 📅 [fall 2023](https://schedule.dallascollege.edu/FALL/Instructor/0019078){:target="_blank"}
 - [sked](https://schedule.dallascollege.edu/FALL2023/Instructor/0019078){:target="_blank"}
