@@ -17,7 +17,7 @@
 <a href="https://voice.google.com/" rel="noopener noreferrer" target="_blank">
     <img alt="Google Voice" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_googlevoice.png?raw=true" width="30"></a>&nbsp;
 <a href="https://www.youtube.com/" rel="noopener noreferrer" target="_blank">
-    <img alt="Telegram" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_youtube.png?raw=true" width="30"></a>&nbsp;
+    <img alt="YouTube" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_youtube.png?raw=true" width="30"></a>&nbsp;
 
 </h2>
 
@@ -36,6 +36,8 @@
 <a href="https://hachyderm.io/home" rel="noopener noreferrer" target="_blank">
     <img alt="mastodon" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_mastodon.png?raw=true" width="30"></a>&nbsp;
 </h2>
+
+<p><a href="https://www.dallasnews.com/" target="_blank">DMN</a> | <a href="https://www.nytimes.com/" target="_blank">NYT</a> | <a href="https://www.washingtonpost.com/" target="_blank">WAPO</a></p>
 
 </div>
 
