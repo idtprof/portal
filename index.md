@@ -39,12 +39,16 @@
 
 
 <div style="text-align:center;font-family:monospace;">
- <a href="https://www.perplexity.ai/" target="_blank" style="padding:4px 8px;background-color:#4CAF50;color:white;text-decoration:none;display:inline-block;margin:2px;line-height:1.25;font-size:12px;font-weight:bold;border:2px solid black;box-shadow:2px 2px 0 black,2px 2px 0 black;transition:background-color 0.3s ease,box-shadow 0.3s ease;" onmouseover="this.style.backgroundColor='#388e3c';this.style.boxShadow='1px 1px 0 black,1px 1px 0 black';" onmouseout="this.style.backgroundColor='#4CAF50';this.style.boxShadow='2px 2px 0 black,2px 2px 0 black';">Perplexity AI</a>
- <a href="https://chat.openai.com/" target="_blank" style="padding:4px 8px;background-color:#4CAF50;color:white;text-decoration:none;display:inline-block;margin:2px;line-height:1.25;font-size:12px;font-weight:bold;border:2px solid black;box-shadow:2px 2px 0 black,2px 2px 0 black;transition:background-color 0.3s ease,box-shadow 0.3s ease;" onmouseover="this.style.backgroundColor='#388e3c';this.style.boxShadow='1px 1px 0 black,1px 1px 0 black';" onmouseout="this.style.backgroundColor='#4CAF50';this.style.boxShadow='2px 2px 0 black,2px 2px 0 black';">OpenAI</a>
- <a href="https://claude.ai/chats" target="_blank" style="padding:4px 8px;background-color:#4CAF50;color:white;text-decoration:none;display:inline-block;margin:2px;line-height:1.25;font-size:12px;font-weight:bold;border:2px solid black;box-shadow:2px 2px 0 black,2px 2px 0 black;transition:background-color 0.3s ease,box-shadow 0.3s ease;" onmouseover="this.style.backgroundColor='#388e3c';this.style.boxShadow='1px 1px 0 black,1px 1px 0 black';" onmouseout="this.style.backgroundColor='#4CAF50';this.style.boxShadow='2px 2px 0 black,2px 2px 0 black';">Claude AI</a>
+ <a href="https://www.perplexity.ai/" target="_blank" style="padding:4px 8px;background-color:#4CAF50;color:white;text-decoration:none;display:inline-block;margin:2px;line-height:1.25;font-size:12px;font-weight:bold;border:2px solid black;transition:background-color 0.3s ease;" onmouseover="this.style.backgroundColor='#388e3c';" onmouseout="this.style.backgroundColor='#4CAF50';">Perplexity AI</a>
+ <a href="https://chat.openai.com/" target="_blank" style="padding:4px 8px;background-color:#4CAF50;color:white;text-decoration:none;display:inline-block;margin:2px;line-height:1.25;font-size:12px;font-weight:bold;border:2px solid black;transition:background-color 0.3s ease;" onmouseover="this.style.backgroundColor='#388e3c';" onmouseout="this.style.backgroundColor='#4CAF50';">OpenAI</a>
+ <a href="https://claude.ai/chats" target="_blank" style="padding:4px 8px;background-color:#4CAF50;color:white;text-decoration:none;display:inline-block;margin:2px;line-height:1.25;font-size:12px;font-weight:bold;border:2px solid black;transition:background-color 0.3s ease;" onmouseover="this.style.backgroundColor='#388e3c';" onmouseout="this.style.backgroundColor='#4CAF50';">Claude AI</a>
 </div>
 
 
+
+<p><a href="https://www.dallasnews.com/" target="_blank">DMN</a> | <a href="https://www.nytimes.com/" target="_blank">NYT</a> | <a href="https://www.washingtonpost.com/" target="_blank">WAPO</a></p>
+
+</div>
 
 ### 🚀 start.paco.org
 
