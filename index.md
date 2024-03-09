@@ -37,6 +37,12 @@
     <img alt="mastodon" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_mastodon.png?raw=true" width="30"></a>&nbsp;
 </h2>
 
+<div style="text-align:center;font-family:monospace;">
+ <a href="https://www.perplexity.ai/" style="padding:6.25px 12.5px;background-color:#4CAF50;color:white;text-decoration:none;display:inline-block;margin:5px;line-height:1.25;transition:background-color 0.3s ease;" onmouseover="this.style.backgroundColor='#388e3c'" onmouseout="this.style.backgroundColor='#4CAF50'">Perplexity AI</a>
+ <a href="https://chat.openai.com/" style="padding:6.25px 12.5px;background-color:#4CAF50;color:white;text-decoration:none;display:inline-block;margin:5px;line-height:1.25;transition:background-color 0.3s ease;" onmouseover="this.style.backgroundColor='#388e3c'" onmouseout="this.style.backgroundColor='#4CAF50'">OpenAI</a>
+ <a href="https://claude.ai/chats" style="padding:6.25px 12.5px;background-color:#4CAF50;color:white;text-decoration:none;display:inline-block;margin:5px;line-height:1.25;transition:background-color 0.3s ease;" onmouseover="this.style.backgroundColor='#388e3c'" onmouseout="this.style.backgroundColor='#4CAF50'">Claude AI</a>
+</div>
+
 <p><a href="https://www.dallasnews.com/" target="_blank">DMN</a> | <a href="https://www.nytimes.com/" target="_blank">NYT</a> | <a href="https://www.washingtonpost.com/" target="_blank">WAPO</a></p>
 
 </div>
