@@ -1,171 +1,142 @@
-## Social Media
-- [<img src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_gmail.png?raw=true" width="20" alt="Gmail">](https://mail.google.com/mail/u/0/#search/is%3Aunread+in%3Ainbox) Gmail
-- [<img src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_facebook.png?raw=true" width="20" alt="Facebook">](https://www.facebook.com/?sk=h_chr) Facebook
-- [<img src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_twitter.png?raw=true" width="20" alt="Twitter">](https://twitter.com/i/lists/1010) Twitter
-- [<img src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_reddit.png?raw=true" width="20" alt="Reddit">](https://www.reddit.com/r/all) Reddit
-- [<img src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_whatsapp.png?raw=true" width="20" alt="WhatsApp">](https://web.whatsapp.com) WhatsApp
-- [<img src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_telegram.png?raw=true" width="20" alt="Telegram">](https://web.telegram.org/) Telegram
-- [<img src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_googlevoice.png?raw=true" width="20" alt="Google Voice">](https://voice.google.com/) Google Voice
-- [<img src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_youtube.png?raw=true" width="20" alt="YouTube">](https://www.youtube.com/) YouTube
+<div align="center">
 
-## Coding & Collaboration
-- [<img src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_github.png?raw=true" width="20" alt="GitHub">](https://github.com/pacodotorg?tab=repositories) GitHub
-- [<img src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_replit.png?raw=true" width="20" alt="Repl.it">](https://replit.com/~) Repl.it
-- [<img src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_discord.png?raw=true" width="20" alt="Discord">](https://discord.com/channels/@me) Discord
-- [<img src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_teams.png?raw=true" width="20" alt="Teams">](https://teams.microsoft.com/) Microsoft Teams
-- [<img src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_bluesky.png?raw=true" width="20" alt="BlueSky">](https://bsky.app/) BlueSky
-- [<img src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_mastodon.png?raw=true" width="20" alt="Mastodon">](https://hachyderm.io/home) Mastodon
+<h2>
 
-### AI Tools
-[Perplexity AI](https://www.perplexity.ai/) | [OpenAI](https://chat.openai.com/) | [Claude AI](https://claude.ai/chats)
+<a href="https://mail.google.com/mail/u/0/#search/is%3Aunread+in%3Ainbox" rel="noopener noreferrer" target="_blank">
+    <img alt="gMail" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_gmail.png?raw=true" width="30"></a>&nbsp;
+<a href="https://www.facebook.com/?sk=h_chr" rel="noopener noreferrer" target="_blank">
+    <img alt="Facebook" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_facebook.png?raw=true" width="30"></a>&nbsp;
+<a href="https://twitter.com/i/lists/1010" rel="noopener noreferrer" target="_blank">
+    <img alt="Twitter" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_twitter.png?raw=true" width="30"></a>&nbsp;
+<a href="https://www.reddit.com/r/all" rel="noopener noreferrer" target="_blank">
+    <img alt="Reddit" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_reddit.png?raw=true" width="30"></a>&nbsp;
+<a href="https://web.whatsapp.com" rel="noopener noreferrer" target="_blank">
+    <img alt="WhatsApp" class="alignnone" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_whatsapp.png?raw=true" width="30"></a>&nbsp; 
+<a href="https://web.telegram.org/" rel="noopener noreferrer" target="_blank">
+    <img alt="Telegram" class="alignnone" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_telegram.png?raw=true" width="30"></a>&nbsp; 
+<a href="https://voice.google.com/" rel="noopener noreferrer" target="_blank">
+    <img alt="Google Voice" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_googlevoice.png?raw=true" width="30"></a>&nbsp;
+<a href="https://www.youtube.com/" rel="noopener noreferrer" target="_blank">
+    <img alt="YouTube" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_youtube.png?raw=true" width="30"></a>&nbsp;
 
-### News & Reading
-- [Dallas Morning News](https://www.dallasnews.com/)
-- [The New York Times](https://www.nytimes.com/)
-- [The Washington Post](https://www.washingtonpost.com/)
+</h2>
 
----
+<h2>
 
-### Books & Libraries
-- [Libby](https://libbyapp.com/shelf)
-- [Grand Prairie Public Library](https://gp.ent.sirsi.net/client/en_US/library)
-- [Houston Public Library](https://houstonlibrary.org/)
-- [El Centro College Library](https://libguides.dcccd.edu/ResearchGuides)
-- [San Jose Public Library](https://sjpl.bibliocommons.com/)
-- [Broward County Library](https://www.broward.org/Library)
+<a href="https://github.com/pacodotorg?tab=repositories" rel="noopener noreferrer" target="_blank">
+    <img alt="GitHub" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_github.png?raw=true" width="30"></a>&nbsp;
+<a href="https://replit.com/~" rel="noopener noreferrer" target="_blank">
+    <img alt="repl.it" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_replit.png?raw=true" width="30"></a>&nbsp;
+<a href="https://discord.com/channels/@me" rel="noopener noreferrer" target="_blank">
+    <img alt="Discord" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_discord.png?raw=true" width="30"></a>&nbsp;
+<a href="https://teams.microsoft.com/" rel="noopener noreferrer" target="_blank">
+    <img alt="Teams" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_teams.png?raw=true" width="30"></a>&nbsp;
+<a href="https://bsky.app/" rel="noopener noreferrer" target="_blank">
+    <img alt="BlueSky" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_bluesky.png?raw=true" width="30"></a>&nbsp;
+<a href="https://hachyderm.io/home" rel="noopener noreferrer" target="_blank">
+    <img alt="mastodon" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_mastodon.png?raw=true" width="30"></a>&nbsp;
+</h2>
 
-### Communication & Office
-- [Outlook Email](https://outlook.office365.com/mail/inbox)
-- [Outlook Calendar](https://outlook.office.com/calendar)
-- [OneNote Sticky Notes](https://www.onenote.com/stickynotes)
-- [Slack](https://idtprof.slack.com/)
 
-### Productivity Apps
-- [Photopea](https://www.photopea.com/) (Online Image Editor)
-- [EditPad](https://www.editpad.org/) (Text Editor)
-- [Commodore 64 Emulator](https://commodore.ca/arcade/Commodore-64-Emulator.html)
+<div style="text-align:center;font-family:verdana,arial,helvetica,sans-serif;font-size:10px;">
+ <a href="https://www.perplexity.ai/" target="_blank" style="background-color:#000080;color:#FFFFFF;text-decoration:none;padding:2px 4px;border:1px solid #000000;">Perplexity AI</a>
+ <a href="https://chat.openai.com/" target="_blank" style="background-color:#000080;color:#FFFFFF;text-decoration:none;padding:2px 4px;border:1px solid #000000;">OpenAI</a>
+ <a href="https://claude.ai/chats" target="_blank" style="background-color:#000080;color:#FFFFFF;text-decoration:none;padding:2px 4px;border:1px solid #000000;">Claude AI</a>
+</div>
 
-<!--
-### SNHU
-- [mySNHU](https://my.snhu.edu/students/Pages/default.aspx)
-- [SNHU Email](https://sso-mail.snhu.edu/owa)
+
+
+<p><a href="https://www.dallasnews.com/" target="_blank">DMN</a> | <a href="https://www.nytimes.com/" target="_blank">NYT</a> | <a href="https://www.washingtonpost.com/" target="_blank">WAPO</a></p>
+
+</div>
+
+### 🚀 start.paco.org
+
+📚 `buks:` [libby](https://libbyapp.com/shelf){:target="_blank"} • [gp](https://gp.ent.sirsi.net/client/en_US/library "gp"){:target="_blank"} • [houston](https://houstonlibrary.org/){:target="_blank"} • [el centro](https://libguides.dcccd.edu/ResearchGuides){:target="_blank"} • [san jose](https://sjpl.bibliocommons.com/){:target="_blank"} • [broward](https://www.broward.org/Library){:target="_blank"}\
+📧 `comm:` [📮](https://outlook.office365.com/mail/inbox){:target="_blank"} • [📅](https://outlook.office.com/calendar){:target="_blank"} • [📝](https://www.onenote.com/stickynotes){:target="_blank"} • [slack](https://idtprof.slack.com/){:target="_blank"}\
+📑 `apps:` [photopea](https://www.photopea.com/){:target="_blank"} • [editpad](https://www.editpad.org/){:target="_blank"} • [C64](https://commodore.ca/arcade/Commodore-64-Emulator.html){:target="_blank"}\
+<!--- 
+🎓 `snhu:` [mySNHU](https://my.snhu.edu/students/Pages/default.aspx){:target="_blank"} • [mail](https://sso-mail.snhu.edu/owa){:target="_blank"}\
 -->
+💻 `code:` [reddit](https://www.reddit.com/r/WebdevTutorials/){:target="_blank"} • [morioh](https://morioh.com/){:target="_blank"} • [code project](https://www.codeproject.com/){:target="_blank"}\
+👀 `news:` [xa](http://www.xahlee.info){:target="_blank"} • [stratechery](https://stratechery.com/){:target="_blank"} • [520](https://learn.snhu.edu/d2l/home/757356){:target="_blank"} • [zeitgeist](https://www.reddit.com/r/thedailyzeitgeist/){:target="_blank"} • [acm](https://cacm.acm.org/){:target="_blank"} • [gog](https://www.gog.show/){:target="_blank"} • [tweeps](https://twitter.com/i/lists/89128725){:target="_blank"}\
+              [blues](https://www.bluesnews.com/){:target="_blank"} • [hacker](https://news.ycombinator.com/){:target="_blank"}\
+📺 `look:` [<span class="ec ec-dog"></span>](https://www.mipcm.com/){:target="_blank"} • [🐕](https://www.campbowwow.com/grand-prairie/live-web-cams/){:target="_blank"} • [bbc](https://www.bbc.co.uk/iplayer){:target="_blank"} • [pluto](https://pluto.tv/en/live-tv/){:target="_blank"} • [prime](https://www.amazon.com/Amazon-Video/b/?node=2858778011){:target="_blank"} • [plex](https://app.plex.tv/desktop/#!/){:target="_blank"} • [roku](https://therokuchannel.roku.com/){:target="_blank"} • [ytTV](https://tv.youtube.com/welcome/?utm_servlet=prod){:target="_blank"} • [tiktok](https://www.tiktok.com/){:target="_blank"} 👀👀👀
 
-### Coding Resources
-- [Web Dev Tutorials on Reddit](https://www.reddit.com/r/WebdevTutorials/)
-- [Morioh](https://morioh.com/)
-- [Code Project](https://www.codeproject.com/)
+### 🏫 ecc
 
-### News & Blogs
-- [Xah Lee](http://www.xahlee.info)
-- [Stratechery](https://stratechery.com/)
-- [SNHU IT-520 Course](https://learn.snhu.edu/d2l/home/757356)
-- [The Daily Zeitgeist](https://www.reddit.com/r/thedailyzeitgeist/)
-- [ACM](https://cacm.acm.org/)
-- [The Good Old Gamers Show](https://www.gog.show/)
-- [Twitter Followers](https://twitter.com/i/lists/89128725)
-- [Blues News](https://www.bluesnews.com/)
-- [Hacker News](https://news.ycombinator.com/)
+- 🎒 [my dc](https://my.dallascollege.edu/){:target="_blank"} • 🖥️ [virtual desktop](https://client.wvd.microsoft.com/arm/webclient/index.html){:target="_blank"}  • [the machine 📀💿📀](https://windows365.microsoft.com/ent#/devices){:target="_blank"}
 
-### Entertainment
-- [Miami International Puppy Cam](https://www.mipcm.com/)
-- [Camp Bow Wow Dog Cams](https://www.campbowwow.com/grand-prairie/live-web-cams/)
-- [BBC iPlayer](https://www.bbc.co.uk/iplayer)
-- [Pluto TV](https://pluto.tv/en/live-tv/)
-- [Amazon Prime Video](https://www.amazon.com/Amazon-Video/b/?node=2858778011)
-- [Plex](https://app.plex.tv/desktop/#!/)
-- [The Roku Channel](https://therokuchannel.roku.com/)
-- [YouTube TV](https://tv.youtube.com/welcome/?utm_servlet=prod)
-- [TikTok](https://www.tiktok.com/)
+- ⚙️ [one stop](https://dcccd.sharepoint.com/sites/FacultyOneStop){:target="_blank"} • [syllabi](https://dcccd.sharepoint.com/sites/FacultyOneStop/SitePages/HB2504-Uploads.aspx){:target="_blank"} • [cetl](https://dcccd.sharepoint.com/sites/CETL){:target="_blank"} • [workday](https://www.myworkday.com/wday/authgwy/dallascollege/login.htmld?returnTo=%2fdallascollege%2fd%2fhome.htmld){:target="_blank"} • [cornerstone](https://dcccd.csod.com/LMS/catalog/Welcome.aspx?tab_page_id=-67&tab_id=-1){:target="_blank}
+- [apps](https://account.activedirectory.windowsazure.com/r?whr=dcccd.edu#/applications){:target="_blank"} • [drive](https://drive.google.com/drive/folders/10vNVHvWsBjqardrxym2iR8cGIy6QYTqs){:target="_blank"} • [diigo](https://www.diigo.com/user/eccidtprof){:target="_blank"}
+- [econnect](https://econnect.dcccd.edu/FacultyMenu.jsp){:target="_blank"} • [ecampus](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1){:target="_blank"} • [my book shelf](https://dcccd.blackboard.com/webapps/blackboard/content/contentWrapper.jsp?content_id=_24219337_1&displayName=Learning+Materials+-+IncludED+eBook&course_id=_633629_1&navItem=content&href=%2Fwebapps%2Fblackboard%2Fexecute%2Fblti%2FlaunchPlacement%3Fblti_placement_id%3D_130_1%26content_id%3D_24219337_1%26course_id%3D_633629_1){:target="_blank"}
+- [youtube](https://www.youtube.com/user/idtprof){:target="_blank"}
+- [trello](https://trello.com/b/bVLAG6pR/spring-2018){:target="_blank"}
+- [gist](https://gist.github.com/){:target="_blank"}
 
----
+### 🛠 tools
 
-### Dallas College
-- [eCampus](https://my.dallascollege.edu/)
-- [Virtual Desktop](https://client.wvd.microsoft.com/arm/webclient/index.html)
-- [Windows 365](https://windows365.microsoft.com/ent#/devices)
-- [Faculty One Stop](https://dcccd.sharepoint.com/sites/FacultyOneStop)
-- [Syllabi](https://dcccd.sharepoint.com/sites/FacultyOneStop/SitePages/HB2504-Uploads.aspx)
-- [CETL](https://dcccd.sharepoint.com/sites/CETL)
-- [Workday](https://www.myworkday.com/wday/authgwy/dallascollege/login.htmld?returnTo=%2fdallascollege%2fd%2fhome.htmld)
-- [Cornerstone](https://dcccd.csod.com/LMS/catalog/Welcome.aspx?tab_page_id=-67&tab_id=-1)
-- [Apps](https://account.activedirectory.windowsazure.com/r?whr=dcccd.edu#/applications)
-- [Google Drive](https://drive.google.com/drive/folders/10vNVHvWsBjqardrxym2iR8cGIy6QYTqs)
-- [Diigo](https://www.diigo.com/user/eccidtprof)
-- [eConnect](https://econnect.dcccd.edu/FacultyMenu.jsp)
-- [eCampus](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1)
-- [My Bookshelf](https://dcccd.blackboard.com/webapps/blackboard/content/contentWrapper.jsp?content_id=_24219337_1&displayName=Learning+Materials+-+IncludED+eBook&course_id=_633629_1&navItem=content&href=%2Fwebapps%2Fblackboard%2Fexecute%2Fblti%2FlaunchPlacement%3Fblti_placement_id%3D_130_1%26content_id%3D_24219337_1%26course_id%3D_633629_1)
-- [YouTube Channel](https://www.youtube.com/user/idtprof)
-- [Trello](https://trello.com/b/bVLAG6pR/spring-2018)
-- [Gist](https://gist.github.com/)
+- [unix timestamp](https://www.unixtimestamp.com/){:target="_blank"}
+- [html5](https://html5-editor.net/){:target="_blank"} • [md](https://pandao.github.io/editor.md/en.html){:target="_blank"} • [tinyMCE](https://www.tiny.cloud/docs/demo/full-featured/){:target="_blank"} • [dirty markup](https://www.10bestdesign.com/dirtymarkup/){:target="_blank"} • [jsfiddle](https://jsfiddle.net/){:target="_blank"}
+- [base64](https://www.textencode.com/encoder/generateBase64){:target="_blank"}
+- [youtube studio](https://studio.youtube.com/){:target="_blank"}
 
-### Spring 2024 Classes
-- [Schedule](https://schedule.dallascollege.edu/SPRING2024/Instructor/0019078)
-- [Full Class List](https://dallascollege.brightspace.com/d2l/home)
-- [Red Hat Academy](https://rha.ole.redhat.com/rha/)
-- [ITSC-1316-52801 (Linux Install/Configuration)](https://dallascollege.brightspace.com/d2l/home/139332)
-  - [Quick Eval](https://dallascollege.brightspace.com/d2l/le/139332/quickeval/)
-- [ITNW-1325-52901 (Fundamentals of Networking Tech)](https://dallascollege.brightspace.com/d2l/home/129832)
-  - [Quick Eval](https://dallascollege.brightspace.com/d2l/le/129832/quickeval/)
-- [ITNW-1325-82G01 (Fundamentals of Networking Tech)](https://dallascollege.brightspace.com/d2l/home/118214)
-  - [Quick Eval](https://dallascollege.brightspace.com/d2l/le/118214/quickeval/)
-- [ITSC-1329-82G01 (Programming Logic and Design)](https://dallascollege.brightspace.com/d2l/home/118374)
-  - [Quick Eval](https://dallascollege.brightspace.com/d2l/le/118374/quickeval/)
-- [ITSC-1329-52700 (Programming Logic and Design)](https://dallascollege.brightspace.com/d2l/home/139088)
-  - [Quick Eval](https://dallascollege.brightspace.com/d2l/le/139088/quickeval/)
-- [ITSC-2325-82500 (Advanced Linux)](https://dallascollege.brightspace.com/d2l/home/145163)
-  - [Quick Eval](https://dallascollege.brightspace.com/d2l/le/145163/quickeval/)
+### 📅 [spring 2024](https://schedule.dallascollege.edu/FALL/Instructor/0019078){:target="_blank"}
+- [sked](https://schedule.dallascollege.edu/SPRING2024/Instructor/0019078){:target="_blank"} • [full class list](https://dallascollege.brightspace.com/d2l/home){:target="_blank"})
 
-### Fall 2023 Classes
-- [Schedule](https://schedule.dallascollege.edu/FALL2023/Instructor/0019078)
-- [Red Hat Academy](https://rha.ole.redhat.com/rha/)
-- [ITNW-1325-51900 (Fundamentals of Networking Tech)](https://dallascollege.brightspace.com/d2l/home/75596)
-  - [Quick Eval](https://dallascollege.brightspace.com/d2l/le/75596/quickeval/)
-- [ITSC-1305-21700 (Intro to PC Operating Systems)](https://dallascollege.brightspace.com/d2l/home/101640)
-  - [Quick Eval](https://dallascollege.brightspace.com/d2l/le/101640/quickeval/)
-- [ITSC-2325-81700 (Advanced Linux)](https://dallascollege.brightspace.com/d2l/home/102037)
-  - [Quick Eval](https://dallascollege.brightspace.com/d2l/le/102037/quickeval/)
-- [ITSY-1300-51G02 (Fundamentals of Information Security)](https://dallascollege.brightspace.com/d2l/home/84417)
-- [ITSY-1300-51G03 (Fundamentals of Information Security)](https://dallascollege.brightspace.com/d2l/home/84423)
+- [red hat](https://rha.ole.redhat.com/rha/){:target="_blank"}
+- [itsc-1316-52801](https://dallascollege.brightspace.com/d2l/home/139332){:target="_blank"} [ linux install/configuration ] • [quick eval](https://dallascollege.brightspace.com/d2l/le/139332/quickeval/){:target="_blank"}
+- [itnw-1325-52901](https://dallascollege.brightspace.com/d2l/home/129832){:target="_blank"} [ fund of networking tech ] • [quick eval](https://dallascollege.brightspace.com/d2l/le/129832/quickeval/){:target="_blank"}
+- [itnw-1325-82G01](https://dallascollege.brightspace.com/d2l/home/118214){:target="_blank"} [ fund of networking tech ] • [quick eval](https://dallascollege.brightspace.com/d2l/le/118214/quickeval/){:target="_blank"}
+- [itsc-1329-82G01](https://dallascollege.brightspace.com/d2l/home/118374){:target="_blank"} [ programming logic and design ] • [quick eval](https://dallascollege.brightspace.com/d2l/le/118374/quickeval/){:target="_blank"}
+- [itsc-1329-52700](https://dallascollege.brightspace.com/d2l/home/139088){:target="_blank"} [ programming logic and design ] • [quick eval](https://dallascollege.brightspace.com/d2l/le/139088/quickeval/){:target="_blank"}
+- [itsc-2325-82500](https://dallascollege.brightspace.com/d2l/home/145163){:target="_blank"} [ advanced linux ] • [quick eval](https://dallascollege.brightspace.com/d2l/le/145163/quickeval/){:target="_blank"}
 
----
 
-### Business & Finance
-- [Marketplace](https://www.marketplace.org/)
-- [MarketWatch](https://www.marketwatch.com/)
-- [Planet Money](https://www.npr.org/blogs/money/)
+### 📅 [fall 2023](https://schedule.dallascollege.edu/FALL/Instructor/0019078){:target="_blank"}
+- [sked](https://schedule.dallascollege.edu/FALL2023/Instructor/0019078){:target="_blank"}
+- [red hat](https://rha.ole.redhat.com/rha/){:target="_blank"}
+- [itnw-1325-51900](https://dallascollege.brightspace.com/d2l/home/75596){:target="_blank"} [ fund of networking tech ] • [quick eval](https://dallascollege.brightspace.com/d2l/le/75596/quickeval/){:target="_blank"}
+- [itsc-1305-21700](https://dallascollege.brightspace.com/d2l/home/101640){:target="_blank"} [ intro to pc operating systems ] • [quick eval](https://dallascollege.brightspace.com/d2l/le/101640/quickeval/){:target="_blank"}
+- [itsc-2325-81700](https://dallascollege.brightspace.com/d2l/home/102037){:target="_blank"} [ advanced linux ] • [quick eval](https://dallascollege.brightspace.com/d2l/le/102037/quickeval/){:target="_blank"}
+- [itsy-1300-51G02](https://dallascollege.brightspace.com/d2l/home/84417){:target="_blank"} [ fund of information security ]
+- [itsy-1300-51G03](https://dallascollege.brightspace.com/d2l/home/84423){:target="_blank"} [ fund of information security ]
 
-### Design
-- [Adactio](https://adactio.com/)
-- [Creative Bloq](https://www.creativebloq.com/)
-- [DaFont](https://www.dafont.com/)
-- [Deke](https://www.deke.com/)
-- [Demosthenes](https://thenewcode.com/)
-- [Font Squirrel](https://www.fontsquirrel.com/)
-- [Tip Squirrel](https://www.tipsquirrel.com/)
-- [#webdesign on Twitter](https://twitter.com/search?q=%23webdesign&src=hash&f=realtime)
-- [Web Designer Ledger](https://webdesignledger.com/)
+### biz
 
-### Entertainment
-- [Deadline Hollywood](https://www.deadline.com/hollywood/)
-- [Google Music](https://play.google.com/music/listen)
-- [The Playlist](https://theplaylist.net/)
-- [SomaFM](https://somafm.com/)
-- [Spotify](https://play.spotify.com/browse)
-- [TuneIn](https://tunein.com/)
+* [marketplace](https://www.marketplace.org/){:target="_blank"}
+* [marketwatch](https://www.marketwatch.com/){:target="_blank"}
+* [planet money](https://www.npr.org/blogs/money/){:target="_blank"}
 
-### Fun
-- [148 Apps](https://www.148apps.com/)
-- [9GAG](https://9gag.com/)
-- [The Awl](https://www.theawl.com/)
-- [The Best Page in the Universe](https://maddox.xmission.com/)
-- [Comics Curmudgeon](https://joshreads.com/)
-- [Cracked](https://www.cracked.com/)
-- [The Daily Show](https://www.thedailyshow.com/)
-- [The Oatmeal](https://theoatmeal.com/)
-- [The Poke](https://www.thepoke.co.uk/)
-- [Slurper](https://darkgate.net/comic/)
-- [Sugar Toast](https://www.sugartoast.com/)
+### design
+
+* [adactio](https://adactio.com/){:target="_blank"}
+* [creativebloq](https://www.creativebloq.com/){:target="_blank"}
+* [dafont](https://www.dafont.com/){:target="_blank"}
+* [deke](https://www.deke.com/){:target="_blank"}
+* [demosthenes](https://thenewcode.com/){:target="_blank"}
+* [fontsquirrel](https://www.fontsquirrel.com/){:target="_blank"}
+* [tipsquirrel](https://www.tipsquirrel.com/){:target="_blank"}
+* [#webdesign](https://twitter.com/search?q=%23webdesign&src=hash&f=realtime){:target="_blank"}
+* [web designer ledger](https://webdesignledger.com/){:target="_blank"}
+
+### entertainment
+
+* [deadline hollywood](https://www.deadline.com/hollywood/){:target="_blank"} • [google music](https://play.google.com/music/listen){:target="_blank"} • [the playlist](https://theplaylist.net/){:target="_blank"} • [soma](https://somafm.com/){:target="_blank"} • [spotify](https://play.spotify.com/browse){:target="_blank"} • [tunein](https://tunein.com/){:target="_blank"}
+
+### fun
+
+* [148 Apps](https://www.148apps.com/){:target="_blank"}
+* [9GAG](https://9gag.com/){:target="_blank"}
+* [the awl](https://www.theawl.com/){:target="_blank"}
+* [the best page in the universe](https://maddox.xmission.com/){:target="_blank"}
+* [comics curmudgeon](https://joshreads.com/){:target="_blank"}
+* [cracked](https://www.cracked.com/){:target="_blank"}
+* [the daily show](https://www.thedailyshow.com/){:target="_blank"}
+* [the oatmeal](https://theoatmeal.com/){:target="_blank"}
+* [the poke](https://www.thepoke.co.uk/){:target="_blank"}
+* [slurper](https://darkgate.net/comic/){:target="_blank"}
+* [sugar toast](https://www.sugartoast.com/){:target="_blank"}
 
 ### geek
 
