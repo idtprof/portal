@@ -61,7 +61,16 @@
 
 ### 🚀 start.paco.org
 
-
+📚 `buks:` [libby](https://libbyapp.com/shelf){:target="_blank"} • [gp](https://gp.ent.sirsi.net/client/en_US/library "gp"){:target="_blank"} • [houston](https://houstonlibrary.org/){:target="_blank"} • [el centro](https://libguides.dcccd.edu/ResearchGuides){:target="_blank"} • [san jose](https://sjpl.bibliocommons.com/){:target="_blank"} • [broward](https://www.broward.org/Library){:target="_blank"}\
+📧 `comm:` [📮](https://outlook.office365.com/mail/inbox){:target="_blank"} • [📅](https://outlook.office.com/calendar){:target="_blank"} • [📝](https://www.onenote.com/stickynotes){:target="_blank"} • [slack](https://idtprof.slack.com/){:target="_blank"}\
+📑 `apps:` [photopea](https://www.photopea.com/){:target="_blank"} • [editpad](https://www.editpad.org/){:target="_blank"} • [C64](https://commodore.ca/arcade/Commodore-64-Emulator.html){:target="_blank"}\
+<!--- 
+🎓 `snhu:` [mySNHU](https://my.snhu.edu/students/Pages/default.aspx){:target="_blank"} • [mail](https://sso-mail.snhu.edu/owa){:target="_blank"}\
+-->
+💻 `code:` [reddit](https://www.reddit.com/r/WebdevTutorials/){:target="_blank"} • [morioh](https://morioh.com/){:target="_blank"} • [code project](https://www.codeproject.com/){:target="_blank"}\
+👀 `news:` [xa](http://www.xahlee.info){:target="_blank"} • [stratechery](https://stratechery.com/){:target="_blank"} • [520](https://learn.snhu.edu/d2l/home/757356){:target="_blank"} • [zeitgeist](https://www.reddit.com/r/thedailyzeitgeist/){:target="_blank"} • [acm](https://cacm.acm.org/){:target="_blank"} • [gog](https://www.gog.show/){:target="_blank"} • [tweeps](https://twitter.com/i/lists/89128725){:target="_blank"}\
+              [blues](https://www.bluesnews.com/){:target="_blank"} • [hacker](https://news.ycombinator.com/){:target="_blank"}\
+📺 `look:` [<span class="ec ec-dog"></span>](https://www.mipcm.com/){:target="_blank"} • [🐕](https://www.campbowwow.com/grand-prairie/live-web-cams/){:target="_blank"} • [bbc](https://www.bbc.co.uk/iplayer){:target="_blank"} • [pluto](https://pluto.tv/en/live-tv/){:target="_blank"} • [prime](https://www.amazon.com/Amazon-Video/b/?node=2858778011){:target="_blank"} • [plex](https://app.plex.tv/desktop/#!/){:target="_blank"} • [roku](https://therokuchannel.roku.com/){:target="_blank"} • [ytTV](https://tv.youtube.com/welcome/?utm_servlet=prod){:target="_blank"} • [tiktok](https://www.tiktok.com/){:target="_blank"} 👀👀👀
 
 ### 🏫 ecc
 
