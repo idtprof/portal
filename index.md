@@ -42,13 +42,28 @@
 
 <div style="text-align:center;font-family:verdana,arial,helvetica,sans-serif;font-size:10px;">
   <style>
+    .link-button {
+      padding: 4px 8px;
+      background-color: #ffffcc;
+      color: black;
+      text-decoration: none;
+      display: inline-block;
+      margin: 2px;
+      line-height: 1.25;
+      font-size: 12px;
+      border: 1px solid black;
+      transition: background-color 0.3s ease, border-radius 0.3s ease;
+      font-family: Verdana;
+      text-transform: uppercase;
+    }
+
     .link-button:hover {
-      color: darkgray;
+      background-color: #ccffff;
     }
   </style>
-  <a href="https://www.perplexity.ai/" target="_blank" class="link-button" style="padding:4px 8px;background-color:#ffffcc;color:black;text-decoration:none;display:inline-block;margin:2px;line-height:1.25;font-size:12px;border:1px solid black;transition:background-color 0.3s ease,border-radius:5px;font-family:Verdana;text-transform:uppercase;">Perplexity AI</a>
-  <a href="https://chat.openai.com/" target="_blank" class="link-button" style="padding:4px 8px;background-color:#ffffcc;color:black;text-decoration:none;display:inline-block;margin:2px;line-height:1.25;font-size:12px;border:1px solid black;transition:background-color 0.3s ease,border-radius:5px;font-family:Verdana;text-transform:uppercase;">OpenAI</a>
-  <a href="https://claude.ai/chats" target="_blank" class="link-button" style="padding:4px 8px;background-color:#ffffcc;color:black;text-decoration:none;display:inline-block;margin:2px;line-height:1.25;font-size:12px;border:1px solid black;transition:background-color 0.3s ease,border-radius:5px;font-family:Verdana;text-transform:uppercase;">Claude AI</a>
+  <a href="https://www.perplexity.ai/" target="_blank" class="link-button">Perplexity AI</a>
+  <a href="https://chat.openai.com/" target="_blank" class="link-button">OpenAI</a>
+  <a href="https://claude.ai/chats" target="_blank" class="link-button">Claude AI</a>
 </div>
 
 
