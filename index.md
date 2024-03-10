@@ -41,9 +41,9 @@
 
 
 <div style="text-align:center;font-family:verdana,arial,helvetica,sans-serif;font-size:10px;">
- <a href="https://www.perplexity.ai/" target="_blank" style="background-color:#000080;color:#FFFFFF;text-decoration:none;padding:2px 4px;border:1px solid #000000;">Perplexity AI</a>
- <a href="https://chat.openai.com/" target="_blank" style="background-color:#000080;color:#FFFFFF;text-decoration:none;padding:2px 4px;border:1px solid #000000;">OpenAI</a>
- <a href="https://claude.ai/chats" target="_blank" style="background-color:#000080;color:#FFFFFF;text-decoration:none;padding:2px 4px;border:1px solid #000000;">Claude AI</a>
+  <a href="https://www.perplexity.ai/" target="_blank" style="padding:4px 8px;background-color:#ffffcc;color:black;text-decoration:none;display:inline-block;margin:2px;line-height:1.25;font-size:12px;border:1px solid black;transition:background-color 0.3s ease;border-radius:5px;font-family:Verdana;text-transform:uppercase;">Perplexity AI</a>
+  <a href="https://chat.openai.com/" target="_blank" style="padding:4px 8px;background-color:#ffffcc;color:black;text-decoration:none;display:inline-block;margin:2px;line-height:1.25;font-size:12px;border:1px solid black;transition:background-color 0.3s ease;border-radius:5px;font-family:Verdana;text-transform:uppercase;">OpenAI</a>
+  <a href="https://claude.ai/chats" target="_blank" style="padding:4px 8px;background-color:#ffffcc;color:black;text-decoration:none;display:inline-block;margin:2px;line-height:1.25;font-size:12px;border:1px solid black;transition:background-color 0.3s ease;border-radius:5px;font-family:Verdana;text-transform:uppercase;">Claude AI</a>
 </div>
 
 
