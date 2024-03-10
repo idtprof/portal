@@ -40,10 +40,10 @@
 
 
 
-<div style="text-align:center;font-family:'Dot Matrix', cursive;">
-  <a href="https://www.perplexity.ai/" target="_blank" style="padding:4px 8px;background-color:#4CAF50;color:white;text-decoration:none;display:inline-block;margin:2px;line-height:1.25;font-size:12px;border:2px solid black;box-shadow:2px 2px 0 black,2px 2px 0 black;transition:background-color 0.3s ease,box-shadow 0.3s ease;" onmouseover="this.style.backgroundColor='#388e3c';this.style.boxShadow='1px 1px 0 black,1px 1px 0 black';" onmouseout="this.style.backgroundColor='#4CAF50';this.style.boxShadow='2px 2px 0 black,2px 2px 0 black';">Perplexity AI</a>
-  <a href="https://chat.openai.com/" target="_blank" style="padding:4px 8px;background-color:#4CAF50;color:white;text-decoration:none;display:inline-block;margin:2px;line-height:1.25;font-size:12px;border:2px solid black;box-shadow:2px 2px 0 black,2px 2px 0 black;transition:background-color 0.3s ease,box-shadow 0.3s ease;" onmouseover="this.style.backgroundColor='#388e3c';this.style.boxShadow='1px 1px 0 black,1px 1px 0 black';" onmouseout="this.style.backgroundColor='#4CAF50';this.style.boxShadow='2px 2px 0 black,2px 2px 0 black';">OpenAI</a>
-  <a href="https://claude.ai/chats" target="_blank" style="padding:4px 8px;background-color:#4CAF50;color:white;text-decoration:none;display:inline-block;margin:2px;line-height:1.25;font-size:12px;border:2px solid black;box-shadow:2px 2px 0 black,2px 2px 0 black;transition:background-color 0.3s ease,box-shadow 0.3s ease;" onmouseover="this.style.backgroundColor='#388e3c';this.style.boxShadow='1px 1px 0 black,1px 1px 0 black';" onmouseout="this.style.backgroundColor='#4CAF50';this.style.boxShadow='2px 2px 0 black,2px 2px 0 black';">Claude AI</a>
+<div style="text-align:center;font-family:verdana,arial,helvetica,sans-serif;font-size:10px;">
+ <a href="https://www.perplexity.ai/" target="_blank" style="background-color:#000080;color:#FFFFFF;text-decoration:none;padding:2px 4px;border:1px solid #000000;">Perplexity AI</a>
+ <a href="https://chat.openai.com/" target="_blank" style="background-color:#000080;color:#FFFFFF;text-decoration:none;padding:2px 4px;border:1px solid #000000;">OpenAI</a>
+ <a href="https://claude.ai/chats" target="_blank" style="background-color:#000080;color:#FFFFFF;text-decoration:none;padding:2px 4px;border:1px solid #000000;">Claude AI</a>
 </div>
 
 
