@@ -61,9 +61,9 @@
       background-color: #ccffff;
     }
   </style>
-  <a href="https://www.perplexity.ai/" target="_blank" class="link-button">Perplexity AI</a>
-  <a href="https://chat.openai.com/" target="_blank" class="link-button">OpenAI</a>
-  <a href="https://claude.ai/chats" target="_blank" class="link-button">Claude AI</a>
+  <a href="https://www.perplexity.ai/" target="_blank" class="link-button">pzzlebot</a>
+  <a href="https://chat.openai.com/" target="_blank" class="link-button">convogen</a>
+  <a href="https://claude.ai/chats" target="_blank" class="link-button">icogito</a>
 </div>
 
 
